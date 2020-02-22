@@ -1,11 +1,11 @@
 ---
 title: "Daggkåpa"
 subtitle: "Alchemilla vulgaris"
-featured_image: "/img/alchemilla-vulgaris-1.jpg"
+featured_image: "/static/img/alchemilla-vulgaris-1.jpg"
 plant_length: "10-50"
 ---
 
-![](/img/alchemilla-vulgaris-3.jpg)
+![](/static/img/alchemilla-vulgaris-3.jpg)
 
 [_Bild från Otto Wilhelm Thomé (1885)_](https://sv.wikipedia.org/wiki/Otto_Wilhelm_Thom%C3%A9)
 
@@ -17,7 +17,7 @@ Alchemilla kommer av arabiskans alkemelych (alkemi), "den lilla magiska". Så be
 
 Daggkåpans blad är mjuka, blågröna, nästan runda med tandade uddar. Stjälken är luden och blommorna är små och gulgröna på sommaren. Blommorna är 3-4mm breda.
 
-![](/img/alchemilla-vulgaris-1.jpg)
+![](/static/img/alchemilla-vulgaris-1.jpg)
 
 ## Användning
 
@@ -29,7 +29,7 @@ Kompress med avkok på daggkåpans blad kan användas för sårläkning, mot inf
 
 Daggkåpans unda och milda blad kan delas och blandas i sallad.
 
-![](/img/alchemilla-vulgaris-2.jpg)
+![](/static/img/alchemilla-vulgaris-2.jpg)
 
 ## Odling
 

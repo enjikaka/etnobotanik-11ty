@@ -1,11 +1,11 @@
 ---
 title: "Nattljus"
 subtitle: "Oenothera biennis"
-featured_image: "/img/oenothera-biennis-1.jpg"
+featured_image: "/static/img/oenothera-biennis-1.jpg"
 plant_length: "80-200"
 ---
 
-![](/img/oenothera-biennis-3.jpg)
+![](/static/img/oenothera-biennis-3.jpg)
 
 [_Bild från Otto Wilhelm Thomé (1885)_](https://sv.wikipedia.org/wiki/Otto_Wilhelm_Thom%C3%A9)
 
@@ -15,7 +15,7 @@ Nattljus passar utmärkt i en månskensträdgård då blommarna på den öppnar 
 
 Nattljus anses vara en synnerligen användbar planta inom genetiken. Medicinsk forskning försöker utröna hur fröet med sin ovanliga syra kan inverka fördelaktigt på premenstruella spänningar, klimakteriebesvär, psoriasis, blodpropp samt multipel skleros och andra handikappande sjukdomar.
 
-![](/img/oenothera-biennis-1.jpg)
+![](/static/img/oenothera-biennis-1.jpg)
 
 ## Användning
 
@@ -23,7 +23,7 @@ Bladen och stjälken på Nattljus var förr omtyckt grönsak bland Nordamerikas 
 
 Te på blad och stjälk-skal hjälper till vid häftig hosta.
 
-![](/img/oenothera-biennis-2.jpg)
+![](/static/img/oenothera-biennis-2.jpg)
 
 ## Odling
 

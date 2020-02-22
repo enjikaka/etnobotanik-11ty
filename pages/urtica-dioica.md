@@ -1,11 +1,11 @@
 ---
 title: "Brännässla"
 subtitle: "Urtica dioica"
-featured_image: "/img/urtica-dioica-1.jpg"
+featured_image: "/static/img/urtica-dioica-1.jpg"
 plant_length: "30-130"
 ---
 
-![](/img/urtica-dioica-3.jpg)
+![](/static/img/urtica-dioica-3.jpg)
 
 [_Bild från Otto Wilhelm Thomé (1885)_](https://sv.wikipedia.org/wiki/Otto_Wilhelm_Thom%C3%A9)
 
@@ -17,7 +17,7 @@ Brännässlan är en flerårig ört med hon- och hanblommor på skilda plantor u
 
 Brännässlan är mycket rik på vitaminer och mineraler.
 
-![](/img/urtica-dioica-1.jpg)
+![](/static/img/urtica-dioica-1.jpg)
 
 ## Användning
 
@@ -26,7 +26,7 @@ Avkok på brännässlan ger en urindrivande effekt och hjälper magen.
 
 Vårskotten kan efter sköljning blandas i sallad - de bränns inte i munnen! De kan även användas till att laga nässelsoppa eller bryggas till te.
 
-![](/img/urtica-dioica-2.jpg)
+![](/static/img/urtica-dioica-2.jpg)
 
 ## Odling
 

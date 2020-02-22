@@ -1,11 +1,11 @@
 ---
 title: "Läkemalva"
 subtitle: "Althaea officinalis"
-featured_image: "/img/althaea-officinalis-1.jpg"
+featured_image: "/static/img/althaea-officinalis-1.jpg"
 plant_length: "-200"
 ---
 
-![](/img/althaea-officinalis-3.jpg)
+![](/static/img/althaea-officinalis-3.jpg)
 
 [_Bild från Otto Wilhelm Thomé (1885)_](https://sv.wikipedia.org/wiki/Otto_Wilhelm_Thom%C3%A9)
 
@@ -15,7 +15,7 @@ Läkemalvans rot innehåller ett slem som tjocknar i vatten och som förr brukad
 
 Alla de över 1 000 växterna i familjen Malvaceae innehåller det helande slemmet. Althaea kommer från det grekiska ordet altho som betyder "bota". Från Kina fördes läkemalvan till Egypten och Syrien, där åt man den som grönsak. Den finns omnämnd av Pytagoras, Platon och Virgilius och avnjöts av romarna i korngrynssoppa och som fyllnad i helstekt spädgris.
 
-![](/img/althaea-officinalis-1.jpg)
+![](/static/img/althaea-officinalis-1.jpg)
 
 ## Användning
 
@@ -25,7 +25,7 @@ Vid hosta, diarré och sömnlöshet kan du dricka te gjort på läkemalvans rot.
 
 Använd bladavkok eller vätskan ur blötlagd rot, kall eller varm, för händerna, vid torrt hår, mot solbränna, till ansiktsmask och ångbad för hyn. Lägg indränkta kompresser för slätare hy kring ögonen.
 
-![](/img/althaea-officinalis-2.jpg)
+![](/static/img/althaea-officinalis-2.jpg)
 
 ## Odling
 

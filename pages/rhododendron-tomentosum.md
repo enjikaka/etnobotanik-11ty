@@ -1,11 +1,11 @@
 ---
 title: "Skvattram"
 subtitle: "Rhododendron tomentosum"
-featured_image: "/img/rhododendron-tomentosum-1.jpg"
+featured_image: "/static/img/rhododendron-tomentosum-1.jpg"
 plant_length: "30-100"
 ---
 
-![](/img/rhododendron-tomentosum-3.jpg)
+![](/static/img/rhododendron-tomentosum-3.jpg)
 
 [_Bild från Otto Wilhelm Thomé (1885)_](https://sv.wikipedia.org/wiki/Otto_Wilhelm_Thom%C3%A9)
 
@@ -13,7 +13,7 @@ plant_length: "30-100"
 
 Skvattram är en strakt doftande växt som blommar med vita blommor under juni och juli månad. Bladen är läderartade med nedvikt kant och står sig under vintern.
 
-![](/img/rhododendron-tomentosum-1.jpg)
+![](/static/img/rhododendron-tomentosum-1.jpg)
 
 [_Bild från Qwert1234 via Wikimedia Commons_](https://commons.wikimedia.org/wiki/File:Ledum_palustre_subsp._diversipilosum_var._nipponicum_1.JPG)
 
@@ -31,7 +31,7 @@ Skvattram ska vara en populär berusningsväxt bland Sibiriens olika folk - där
 
 Som afrodisiakum skall växten också kunna användas. Experiment från professon Hugo Schultz utförde på 1900-talet visade på att skvattram gav "mycket besvärliga, häftiga och långvariga erektioner" och försäkt menstruation hos kvinnor. "Fantastiska och erotiskt färgade drömmar störde nattron, och riklig nattsvett uppträdde upprepade gånger."
 
-![](/img/rhododendron-tomentosum-2.jpg)
+![](/static/img/rhododendron-tomentosum-2.jpg)
 
 
 [_Bild från JDavid via Wikimedia Commons_](https://sv.wikipedia.org/wiki/Fil:Mrzezyno_reserve_Ledum_palustre_2010-07.jpg)
@@ -42,7 +42,7 @@ Svattram blir 30-100 cm. Växer i fuktig skogsmark och på mossar och förkommer
 
 ## Övrigt
 
-![](/img/rhododendron-tomentosum-4.jpg)
+![](/static/img/rhododendron-tomentosum-4.jpg)
 
 [_Bild från Carl Axel Magnus Lindman via Bilder ur Nordens Flora_](http://runeberg.org/nordflor/151.html)
 

@@ -2,20 +2,20 @@
 title: "Åkerbär"
 subtitle: "Rubus árcticus"
 plant_length: "10-30"
-featured_image: "/img/rubus-arcticus-1.jpg"
+featured_image: "/static/img/rubus-arcticus-1.jpg"
 ---
 
-![](/img/rubus-arcticus-3.jpg)
+![](/static/img/rubus-arcticus-3.jpg)
 
 ## Generellt
 
 
-![](/img/rubus-arcticus-1.jpg)
+![](/static/img/rubus-arcticus-1.jpg)
 
 ## Användning
 
 
-![](/img/rubus-arcticus-2.jpg)
+![](/static/img/rubus-arcticus-2.jpg)
 
 ## Odling
 

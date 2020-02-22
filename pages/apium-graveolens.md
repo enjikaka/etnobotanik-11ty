@@ -1,11 +1,11 @@
 ---
 title: "Vildselleri"
 subtitle: "Apium graveolens"
-featured_image: "/img/apium-graveolens-1.jpg"
+featured_image: "/static/img/apium-graveolens-1.jpg"
 plant_length: "20-80"
 ---
 
-![](/img/apium-graveolens-3.jpg)
+![](/static/img/apium-graveolens-3.jpg)
 
 [_Bild från Otto Wilhelm Thomé (1885)_](https://sv.wikipedia.org/wiki/Otto_Wilhelm_Thom%C3%A9)
 
@@ -13,7 +13,7 @@ plant_length: "20-80"
 
 En krona av vildselleri förärades segrarna i de nemeiska spelen till den grekiske överguden Zeus förhärligande. Därefter dödades den nemeiske kungens son av en orm, göm i sellerins blad, som även fick göra tjänst som begravningskrans. Grekerna använde örten medicinskt också, och romarna hade glädje av den i köket. Av stjälkarna gjordes puré med peppar, libbsticka, oregano, lök och vin. Spädgris fylldes med bladen jämte dadlar och pinjefrö. På 1800-talet använde sekten shakers i USA plantan till patentmedicin.
 
-![](/img/apium-graveolens-1.jpg)
+![](/static/img/apium-graveolens-1.jpg)
 
 ## Användning
 
@@ -21,7 +21,7 @@ Sellerins frön kan malas ned och användas till sellerisalt. Fröna är goda i 
 
 Som läkemedel är avkok på fröna lugnande, avslappnande, bra för njurarna och lättar väderspänning. Sellerins blad är rika på vitaminer, mineralsalter och annat nyttigt. Bladen anses innehålla insulinliknande hormon, vilket är bra för diabetiker. Te på bladen är aptitretande, bra för matsmältningen och mot kolik. Krossa stjäl och blad för att få ut urindrivande saft.
 
-![](/img/apium-graveolens-2.jpg)
+![](/static/img/apium-graveolens-2.jpg)
 
 ## Odling
 
