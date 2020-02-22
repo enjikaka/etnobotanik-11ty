@@ -1,7 +1,10 @@
 <nav>
+  {% set plantPages = collections.plant %}
   <ul>
-  {%- for plant in collections.plant -%}
-    <li>{{ post.data.title }}</li>
-  {%- endfor -%}
+  {%- for plantPage in plantPages %}
+    <li>
+      <a href="{{ plantPage.url | url }}">{{ plantPage.title }}</a>
+    </li>
+  {%- endfor %}
   </ul>
 </nav>
