@@ -2,6 +2,7 @@
 title: "Blåhallon"
 subtitle: "Rubus caésius"
 plant_length: "50-100"
+tags: plant
 ---
 
 ## Generellt

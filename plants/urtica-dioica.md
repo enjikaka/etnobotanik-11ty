@@ -3,6 +3,7 @@ title: "Brännässla"
 subtitle: "Urtica dioica"
 featured_image: "/static/img/urtica-dioica-1.jpg"
 plant_length: "30-130"
+tags: plant
 ---
 
 ![](/static/img/urtica-dioica-3.jpg)

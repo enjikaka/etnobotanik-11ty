@@ -2,6 +2,7 @@
 title: "Älggräs"
 subtitle: "Filipendula ulmaria"
 plant_length: "50-100"
+tags: plant
 ---
 
 ## Generellt

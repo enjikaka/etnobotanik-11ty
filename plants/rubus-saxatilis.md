@@ -2,6 +2,7 @@
 title: "Stenbär"
 subtitle: "Rubus árcticus"
 plant_length: "15-30"
+tags: plant
 ---
 
 ## Generellt

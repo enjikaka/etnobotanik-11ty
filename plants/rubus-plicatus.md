@@ -3,6 +3,7 @@ title: "Björnbär"
 subtitle: "Rubus plicatus"
 plant_length: "100-200"
 featured_image: "/static/img/rubus-plicatus-1.jpg"
+tags: plant
 ---
 
 ![](/static/img/rubus-plicatus-3.jpg)

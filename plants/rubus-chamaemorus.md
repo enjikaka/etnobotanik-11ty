@@ -5,6 +5,7 @@ plant_length: "10-30"
 grow_location_type: "rismyrar, mossar"
 flower_colour: "vita"
 flower_period: "6"
+tags: plant
 ---
 
 ## Generellt

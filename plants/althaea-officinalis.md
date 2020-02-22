@@ -3,6 +3,7 @@ title: "Läkemalva"
 subtitle: "Althaea officinalis"
 featured_image: "/static/img/althaea-officinalis-1.jpg"
 plant_length: "-200"
+tags: plant
 ---
 
 ![](/static/img/althaea-officinalis-3.jpg)

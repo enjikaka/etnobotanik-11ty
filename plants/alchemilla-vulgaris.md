@@ -3,6 +3,7 @@ title: "Daggkåpa"
 subtitle: "Alchemilla vulgaris"
 featured_image: "/static/img/alchemilla-vulgaris-1.jpg"
 plant_length: "10-50"
+tags: plant
 ---
 
 ![](/static/img/alchemilla-vulgaris-3.jpg)

@@ -3,6 +3,7 @@ title: "Nattljus"
 subtitle: "Oenothera biennis"
 featured_image: "/static/img/oenothera-biennis-1.jpg"
 plant_length: "80-200"
+tags: plant
 ---
 
 ![](/static/img/oenothera-biennis-3.jpg)

@@ -3,6 +3,7 @@ title: "Kråkbär"
 subtitle: "Émpetrum nigrum"
 featured_image: "/static/img/empetrum-nigrum-1.jpg"
 plant_length: "10-20"
+tags: plant
 ---
 
 ![](/static/img/empetrum-nigrum-3.jpg)

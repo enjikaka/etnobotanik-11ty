@@ -3,6 +3,7 @@ title: "Kvanne"
 subtitle: "Angelica archangelica"
 featured_image: "/static/img/angelica-archangelica-1.jpg"
 plant_length: "100-200"
+tags: plant
 ---
 
 ![](/static/img/angelica-archangelica-3.jpg)
