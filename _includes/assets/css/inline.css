@@ -16,14 +16,13 @@ body {
 }
 
 body {
-	display: grid;
 	height: 100vh;
-	grid-template-rows: auto 1fr auto;
-	background-color: var(--turkey);
+	background-color: white;
+	background-image: url(/static/img/paper.svg);
 }
 
 main {
-	max-width: 37.5em;
+	margin: 0 auto;
 }
 
 p,
@@ -32,16 +31,10 @@ code {
 	line-height: 1.5;
 }
 
-a[href],
-a[href]:visited {
-	color: var(--blue);
-}
-
 a[href]:not(:hover) {
 	text-decoration: none;
 }
 
-header,
 main,
 footer {
 	padding: 1em;
@@ -54,6 +47,13 @@ main {
 main :first-child,
 main > article :first-child {
 	margin-top: 0;
+}
+
+article {
+	margin: 1rem auto;
+	padding: 1rem;
+	background-color: rgba(255,255,255,0.5);
+	max-width: 600px;
 }
 
 pre {
@@ -75,30 +75,39 @@ pre {
 
 /* Header Logo (style as h2) */
 header > em {
-	display: block;
-	font-size: 2em;
-	margin: .67em 0;
 	font-weight: bold;
 	font-style: normal;
 }
 
-/* Header Nav */
+header {
+	background-image: url(/static/img/dark-paper.svg);
+	color: #EFD799;
+	height: 50px;
+	display: flex;
+	flex-flow: row nowrap;
+	align-items: center;
+	padding: 0 1rem;
+	font-family: serif;
+}
+
+header a {
+	color: currentColor;
+}
+
+img {
+	max-width: 100%;
+}
+
+header nav {
+	flex: 1;
+	display: flex;
+	flex-flow: row nowrap;
+	justify-content: center;
+}
+
 header nav ul {
 	padding: 0;
 	list-style: none;
-}
-
-header nav ul :first-child {
-	margin-left: 0;
-}
-
-header nav li {
-	display: inline-block;
-	margin: 0 .5em;
-}
-
-header nav li a[href]:not(:hover) {
-	text-decoration: none;
 }
 
 header nav li a[data-current="current item"] {
@@ -107,12 +116,6 @@ header nav li a[data-current="current item"] {
 }
 
 /* Posts List */
-article {
-	margin-bottom: 1em;
-	padding-bottom: 1em;
-	border-bottom: 1px solid #eee;
-	border-bottom: 1px solid var(--white);
-}
 
 main > section > article > * {
 	margin-top: 0;
