@@ -1,6 +1,6 @@
 ---
 title: "Dansk körvel"
-subtitle: "Anthriscus cerefolium"
+latinName: "Anthriscus cerefolium"
 featured_image: "/static/img/anthriscus-cerefolium-1.jpg"
 plant_length: "20-35"
 tags: plant

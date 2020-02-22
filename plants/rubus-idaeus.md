@@ -1,7 +1,6 @@
 ---
 title: "Hallon"
-subtitle: "Rubus idaéus"
-plant_length: "50-150"
+latinName: "Rubus idaéus"
 tags: plant
 ---
 

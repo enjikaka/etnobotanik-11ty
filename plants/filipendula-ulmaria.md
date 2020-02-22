@@ -1,6 +1,6 @@
 ---
 title: "Älggräs"
-subtitle: "Filipendula ulmaria"
+latinName: "Filipendula ulmaria"
 plant_length: "50-100"
 tags: plant
 ---

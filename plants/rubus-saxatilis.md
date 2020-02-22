@@ -1,7 +1,6 @@
 ---
 title: "Stenbär"
-subtitle: "Rubus árcticus"
-plant_length: "15-30"
+latinName: "Rubus árcticus"
 tags: plant
 ---
 

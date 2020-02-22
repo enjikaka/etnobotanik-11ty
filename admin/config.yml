@@ -44,6 +44,6 @@ collections:
     slug: "{{slug}}"
     fields:
       - { label: "Titel", name: "title", widget: "string" }
-      - { label: "Latinskt namn", name: "subtitle", widget: "string" }
+      - { label: "Latinskt namn", name: "latinName", widget: "string" }
       - { label: "GBIF ID", name: "gbif", widget: "string" }
       - { label: "Brödtext", name: "body", widget: "markdown" }

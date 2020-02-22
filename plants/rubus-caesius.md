@@ -1,6 +1,6 @@
 ---
 title: "Blåhallon"
-subtitle: "Rubus caésius"
+latinName: "Rubus caésius"
 plant_length: "50-100"
 tags: plant
 ---
