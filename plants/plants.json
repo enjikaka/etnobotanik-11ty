@@ -1,3 +1,5 @@
 {
-  "layout": "layouts/page.njk"
+  "layout": "layouts/page.njk",
+  "permalink": "plants/{{ title | slug }}/index.html",
+  "tags": "plant"
 }
