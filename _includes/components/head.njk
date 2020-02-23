@@ -1,7 +1,22 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>{{ title or renderData.title or metadata.title }}</title>
+
+  <meta name="google-site-verification" content="HIj6_hwTx3aVnL6o7Db3AF7MMhWPB3pbhWRDwlBXvDM" />
+
+  <meta name="HandheldFriendly" content="True">
+  <meta name="mobile-web-app-capable" content="yes">
+
+  <meta name="theme-color" content="#0288D1">
+  <meta name="msapplication-navbutton-color" content="#0288D1">
+
+  <title>{{ title or renderData.title or metadata.title }} - Etnobotanik-Arkivet</title>
+
+  <meta name="application-name" content="Etnobotanik-Arkivet">
+  <meta name="apple-mobile-web-app-title" content="Etnobotanik-Arkivet">
+
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Droid+Serif&display=swap">
+
   <script async src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
   {% set css %}
     {% include "assets/css/inline.css" %}
