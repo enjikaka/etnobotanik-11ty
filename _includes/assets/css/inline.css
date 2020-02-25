@@ -60,6 +60,10 @@ article {
 	max-width: 600px;
 }
 
+article a {
+	color: hsl(41, 84%, 30%);
+}
+
 pre {
 	font-size: 14px;
 	direction: ltr;
@@ -193,6 +197,39 @@ button {
 	background-color: var(--blue);
 	color: var(--white);
 	cursor: pointer;
+}
+
+.plants-list {
+	list-style: none;
+	padding: 0;
+}
+
+.plants-list li a {
+	padding: 0.5em 0;
+	display: flex;
+	flex-flow: row nowrap;
+	align-items: center;
+}
+
+.plants-list li:hover {
+	background-color: rgba(0, 0, 0, 0.02);
+}
+
+.plants-list figure {
+	margin: 0;
+	width: 64px;
+	height: 64px;
+	margin-right: 1rem;
+	overflow: hidden;
+	contain: strict;
+	border-radius: 6px;
+}
+
+.plants-list img {
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+	display: block;
 }
 
 @media screen and (min-width:768px) {

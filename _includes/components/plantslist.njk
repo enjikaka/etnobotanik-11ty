@@ -1,10 +1,18 @@
 <nav>
   {% set plantPages = collections.plant %}
-  <ul>
+  <ul class="plants-list">
   {%- for plantPage in plantPages %}
-    <li>
-      <a href="{{ plantPage.url | url }}">{{ plantPage.data.title }} ({{ plantPage.data.latinName }})</a>
-    </li>
+    {%- if plantPage.data.latinName %}
+      {% set imageUrl = plantPage.data.featured_image | default('/static/img/fallback-plant.svg') %}
+      <li>
+        <a href="{{ plantPage.url | url }}">
+          <figure>
+            <img src="{{imageUrl}}" alt="Bild på {{ plantPage.data.title }}">
+          </figure>
+          {{ plantPage.data.title }} ({{ plantPage.data.latinName }})
+        </a>
+      </li>
+    {%- endif %}
   {%- endfor %}
   </ul>
 </nav>
