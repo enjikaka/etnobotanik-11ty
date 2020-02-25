@@ -50,8 +50,9 @@ main > article :first-child {
 }
 
 article {
-	margin: 1rem auto;
-	padding: 1rem;
+	margin: 2.4rem auto;
+	padding: 1.2rem;
+	border-radius: 12px;
 	background-color: rgba(255,255,255,0.5);
 	max-width: 600px;
 }
@@ -80,7 +81,7 @@ header > em {
 }
 
 header {
-	background-image: url(/static/img/dark-paper.svg);
+	background-image: linear-gradient(rgba(136,90,62,0.5), rgba(96,48,19,0.5) 70%, rgba(136,90,62,0.5)), url(/static/img/dark-paper-2.svg);
 	color: #EFD799;
 	height: 50px;
 	display: flex;
