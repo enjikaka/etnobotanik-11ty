@@ -10,19 +10,22 @@
 
 html,
 body {
+	min-height: 100vh;
 	padding: 0;
 	margin: 0;
 	font-family: 'Droid Serif', serif;
 }
 
 body {
-	height: 100vh;
+	display: flex;
+	flex-flow: column nowrap;
 	background-color: white;
 	background-image: url(/static/img/paper.svg);
 }
 
 main {
 	margin: 0 auto;
+	flex: 1;
 }
 
 p,
@@ -80,6 +83,7 @@ header > em {
 	font-style: normal;
 }
 
+footer,
 header {
 	background-image: linear-gradient(rgba(136,90,62,0.5), rgba(96,48,19,0.5) 70%, rgba(136,90,62,0.5)), url(/static/img/dark-paper-2.svg);
 	color: #EFD799;
@@ -87,12 +91,19 @@ header {
 	display: flex;
 	flex-flow: row nowrap;
 	align-items: center;
-	padding: 0 1rem;
-	font-family: serif;
+	padding: 0 1.2rem;
+	letter-spacing: 0.8px;
 }
 
-header a {
+header {
+	position: sticky;
+	top: 0;
+	z-index: 1;
+}
+
+a {
 	color: currentColor;
+	opacity: 0.9;
 }
 
 img {
@@ -103,7 +114,7 @@ header nav {
 	flex: 1;
 	display: flex;
 	flex-flow: row nowrap;
-	justify-content: center;
+	justify-content: flex-end;
 }
 
 header nav ul {
@@ -169,7 +180,7 @@ button {
   padding: 1em;
   margin-bottom: 1em;
 	font-size: 1rem;
-	font-family: "Avenir", "Avenir Next", sans-serif;
+	font-family: 'Droid Serif', serif;
 }
 
 input,
