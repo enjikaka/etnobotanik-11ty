@@ -1,8 +1,10 @@
 ---
-title: "Älggräs"
-latinName: "Filipendula ulmaria"
-plant_length: "50-100"
+title: Älggräs
+latinName: Filipendula ulmaria
+plant_length: 50-100
 tags: plant
+thumbnail: /static/img/filipendula-ulmaria.jpg
+gbif: '2987999'
 ---
 
 ## Generellt
