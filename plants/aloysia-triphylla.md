@@ -1,7 +1,7 @@
 ---
 title: "Citronverbena"
 latinName: "Aloysia triphylla"
-featured_image: "/static/img/aloysia-triphylla-1.jpg"
+thumbnail: "/static/img/aloysia-triphylla-1.jpg"
 plant_length: "50-100"
 tags: plant
 ---

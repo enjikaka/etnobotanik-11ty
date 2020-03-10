@@ -1,7 +1,7 @@
 ---
 title: "Daggkåpa"
 latinName: "Alchemilla vulgaris"
-featured_image: "/static/img/alchemilla-vulgaris-1.jpg"
+thumbnail: "/static/img/alchemilla-vulgaris-1.jpg"
 plant_length: "10-50"
 tags: plant
 ---

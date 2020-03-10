@@ -1,7 +1,7 @@
 ---
 title: "Kråkbär"
 latinName: "Émpetrum nigrum"
-featured_image: "/static/img/empetrum-nigrum-1.jpg"
+thumbnail: "/static/img/empetrum-nigrum-1.jpg"
 plant_length: "10-20"
 tags: plant
 ---
