@@ -1,6 +1,6 @@
 ---
 title: "Stenbär"
-latinName: "Rubus árcticus"
+latinName: "Rubus saxatilis"
 tags: plant
 ---
 
