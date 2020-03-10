@@ -1,7 +1,10 @@
 ---
-title: "Hjortron"
-latinName: "Rubus chamaemorus"
+title: Hjortron
+latinName: Rubus chamaemorus
 tags: plant
+thumbnail: /static/img/multer.jpg
+thumbnail_attribution: 'https://commons.wikimedia.org/wiki/File:Salmonberry07.jpg'
+gbif: '2998290'
 ---
 
 ## Generellt
