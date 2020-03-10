@@ -1,4 +1,4 @@
 # These rules will change if you change your site’s custom domains or HTTPS settings
 
 # Redirect domain aliases to primary domain
-https://etnobotanik.se/vaxter/* https://nightcore.app/plants/:splat 301!
+https://etnobotanik.se/vaxter/* https://etnobotanik.se/plants/:splat 301!
