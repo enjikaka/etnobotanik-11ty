@@ -10,7 +10,7 @@ Mellanbladen strödda, mycket kortskaftade, fint sågade, ljusgröna. Sommargrö
 
 Trivs bäst i granskog men även på fuktiga hedar och i bergstrakter. Finns i hela Sverige.
 
-Blåbären är klotrunda och svart blådaggiga med röd saft. 
+Blåbären är klotrunda och svart blådaggiga med röd saft.
 
 ## Användning
 
