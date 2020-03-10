@@ -4,8 +4,17 @@ section: plants
 ---
 
 <article>
-  <h1>{{ title }}</h1>
-  <small>{{ latinName }}</small>
+  <header>
+    <div class="text">
+      <h1>{{ title }}</h1>
+      <small>{{ latinName }}</small>
+    </div>
+    {% if thumbnail %}
+    <figure>
+      <img src="{{ thumbnail }}" alt="Utvald bild på {{ title }}" data-attribution="{{thumbnail_attribution}}" />
+    </figure>
+    {% endif %}
+  </header>
 
   {{ layoutContent | safe }}
 </article>
