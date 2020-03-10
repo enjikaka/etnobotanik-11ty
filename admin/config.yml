@@ -6,7 +6,7 @@ backend:
 # publish_mode: editorial_workflow
 
 media_folder: "static/img" # Media files will be stored in the repo under images/uploads
-
+locale: 'sv'
 collections:
   # Our blog posts
   - name: "blog" # Used in routes, e.g., /admin/collections/blog
@@ -45,5 +45,6 @@ collections:
     fields:
       - { label: "Titel", name: "title", widget: "string" }
       - { label: "Latinskt namn", name: "latinName", widget: "string" }
+      - { label: "Featured Image", name: "thumbnail", widget: "image" }
       - { label: "GBIF ID", name: "gbif", widget: "string" }
       - { label: "Brödtext", name: "body", widget: "markdown" }
