@@ -2,7 +2,6 @@
   "name": "etnobotanik-11ty",
   "version": "1.0.3",
   "description": "11ty with Netlify CMS",
-  "type": "module",
   "scripts": {
     "build": "npx eleventy",
     "serve": "npx eleventy --serve",

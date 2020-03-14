@@ -1,9 +1,9 @@
-import CleanCSS from 'clean-css';
-import UglifyJS from 'uglify-es';
-import htmlmin from 'html-minifier';
-import eleventyNavigationPlugin from '@11ty/eleventy-navigation';
+const CleanCSS = require('clean-css');
+const UglifyJS = require('uglify-es');
+const htmlmin = require('html-minifier');
+const eleventyNavigationPlugin = require('@11ty/eleventy-navigation');
 
-module.exports = function(eleventyConfig) {
+module.exports = eleventyConfig => {
 
   // Eleventy Navigation https://www.11ty.dev/docs/plugins/navigation/
   eleventyConfig.addPlugin(eleventyNavigationPlugin);
@@ -42,15 +42,6 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addCollection("posts", function(collection) {
     return collection.getAllSorted().filter(function(item) {
       return item.inputPath.match(/^\.\/posts\//) !== null;
-    });
-  });
-
-  // Universal slug filter strips unsafe chars from URLs
-  eleventyConfig.addFilter("slugify", function(str) {
-    return slugify(str, {
-      lower: true,
-      replacement: "-",
-      remove: /[*+~.·,()'"`´%!?¿:@]/g
     });
   });
 
