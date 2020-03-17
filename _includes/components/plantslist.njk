@@ -6,7 +6,11 @@
       <li>
         <a href="{{ plantPage.url | url }}">
           <figure>
-            <img src="{{plantPage.data.latinName | thumbnailSrc}}" srcset="{{ plantPage.data.latinName | thumbnailSrcset }}" sizes="64px" alt="Bild på {{ plantPage.data.title }}">
+            <img
+              src="{{plantPage.data.latinName | thumbnailSrc}}"
+              srcset="{{ plantPage.data.latinName | thumbnailSrcset }}"
+              sizes="64px" alt="Bild på {{ plantPage.data.title }}"
+            >
           </figure>
           {{ plantPage.data.title }} ({{ plantPage.data.latinName }})
         </a>
