@@ -33,7 +33,5 @@ collections:
     fields:
       - { label: "Titel", name: "title", widget: "string" }
       - { label: "Latinskt namn", name: "latinName", widget: "string" }
-      - { label: "Featured Image", name: "thumbnail", widget: "image" }
-      - { label: "Featured Image Attribution", name: "thumbnail_attribution", widget: "string" }
       - { label: "GBIF ID", name: "gbif", widget: "string" }
       - { label: "Brödtext", name: "body", widget: "markdown" }

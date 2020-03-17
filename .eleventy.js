@@ -10,6 +10,27 @@ module.exports = eleventyConfig => {
 
   eleventyConfig.addLayoutAlias("post", "layouts/post.njk");
 
+  eleventyConfig.addFilter('thumbnailSrc', latinName => {
+    const path = latinName
+      .split(' ')
+      .map(s => s.toLocaleLowerCase())
+      .join('-');
+
+    return '/static/img/thumb-1x/' + path + '.jpg';
+  });
+
+  eleventyConfig.addFilter('thumbnailSrcset', latinName => {
+    const widths = [64, 128, 256];
+    const path = latinName
+      .split(' ')
+      .map(s => s.toLocaleLowerCase())
+      .join('-');
+
+    return widths.map(
+      width => `/static/img/thumb-${width}/${path}.jpg ${width}w`
+    );
+  });
+
   // Minify CSS
   eleventyConfig.addFilter("cssmin", function(code) {
     return new CleanCSS({}).minify(code).styles;

@@ -1,7 +1,6 @@
 ---
-title: "Kråkbär"
-latinName: "Émpetrum nigrum"
-thumbnail: "/static/img/thumb-1x/empetrum-nigrum-1.jpg"
+title: Kråkbär
+latinName: Empetrum nigrum
 plant_length: "10-20"
 tags: plant
 ---

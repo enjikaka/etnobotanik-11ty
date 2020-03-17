@@ -9,9 +9,9 @@ section: plants
       <h1>{{ title }}</h1>
       <small>{{ latinName }}</small>
     </div>
-    {% if thumbnail %}
+    {% if latinName %}
     <figure>
-      <img src="{{ thumbnail }}" alt="Utvald bild på {{ title }}" data-attribution="{{thumbnail_attribution}}" />
+      <img src="{{ latinName | thumbnailSrc }}" srcset="{{ latinName | thumbnailSrcset }}" sizes="144px" alt="Utvald bild på {{ title }}" data-attribution="{{thumbnail_attribution}}" />
     </figure>
     {% endif %}
   </header>
