@@ -2,7 +2,7 @@
 title: "Åkerbär"
 latinName: "Rubus árcticus"
 plant_length: "10-30"
-thumbnail: "/static/img/rubus-arcticus-1.jpg"
+thumbnail: "/static/img/thumb-1x/rubus-arcticus-1.jpg"
 tags: plant
 ---
 

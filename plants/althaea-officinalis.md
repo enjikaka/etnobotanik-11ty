@@ -1,7 +1,7 @@
 ---
 title: "Läkemalva"
 latinName: "Althaea officinalis"
-thumbnail: "/static/img/althaea-officinalis-1.jpg"
+thumbnail: "/static/img/thumb-1x/althaea-officinalis-1.jpg"
 plant_length: "-200"
 tags: plant
 ---

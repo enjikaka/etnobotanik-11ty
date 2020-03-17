@@ -1,7 +1,7 @@
 ---
 title: "Dill"
 latinName: "Anethum graveolens"
-thumbnail: "/static/img/anethum-graveolens-1.jpg"
+thumbnail: "/static/img/thumb-1x/anethum-graveolens-1.jpg"
 plant_length: "20-100"
 tags: plant
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Skvattram"
 latinName: "Rhododendron tomentosum"
-thumbnail: "/static/img/rhododendron-tomentosum-1.jpg"
+thumbnail: "/static/img/thumb-1x/rhododendron-tomentosum-1.jpg"
 plant_length: "30-100"
 tags: plant
 ---

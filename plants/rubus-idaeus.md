@@ -2,7 +2,7 @@
 title: Hallon
 latinName: Rubus idaéus
 tags: plant
-thumbnail: /static/img/raspberries_-rubus_idaeus-.jpg
+thumbnail: /static/img/thumb-1x/rubus-idaeus.jpg
 thumbnail_attribution: 'https://commons.wikimedia.org/wiki/File:Raspberries_(Rubus_Idaeus).jpg'
 gbif: '2993094'
 ---

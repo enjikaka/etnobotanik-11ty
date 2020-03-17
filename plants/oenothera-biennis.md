@@ -1,7 +1,7 @@
 ---
 title: "Nattljus"
 latinName: "Oenothera biennis"
-thumbnail: "/static/img/oenothera-biennis-1.jpg"
+thumbnail: "/static/img/thumb-1x/oenothera-biennis-1.jpg"
 plant_length: "80-200"
 tags: plant
 ---

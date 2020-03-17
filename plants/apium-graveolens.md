@@ -1,7 +1,7 @@
 ---
 title: "Vildselleri"
 latinName: "Apium graveolens"
-thumbnail: "/static/img/apium-graveolens-1.jpg"
+thumbnail: "/static/img/thumb-1x/apium-graveolens-1.jpg"
 plant_length: "20-80"
 tags: plant
 ---

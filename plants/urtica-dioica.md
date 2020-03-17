@@ -1,7 +1,7 @@
 ---
 title: "Brännässla"
 latinName: "Urtica dioica"
-thumbnail: "/static/img/urtica-dioica-1.jpg"
+thumbnail: "/static/img/thumb-1x/urtica-dioica-1.jpg"
 tags: plant
 ---
 

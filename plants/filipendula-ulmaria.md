@@ -3,7 +3,7 @@ title: Älggräs
 latinName: Filipendula ulmaria
 plant_length: 50-100
 tags: plant
-thumbnail: /static/img/filipendula-ulmaria.jpg
+thumbnail: /static/img/thumb-1x/filipendula-ulmaria.jpg
 gbif: '2987999'
 ---
 

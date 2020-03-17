@@ -1,7 +1,7 @@
 ---
 title: "Rölleka"
 latinName: "Achillea millefolium"
-thumbnail: "/static/img/achillea-millefolium-1.jpg"
+thumbnail: "/static/img/thumb-1x/achillea-millefolium-1.jpg"
 plant_length: "15-60"
 gbif: 9221087
 tags: plant

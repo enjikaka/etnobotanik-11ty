@@ -1,7 +1,7 @@
 ---
 title: Blåbär
 latinName: Vaccinium myrtillus
-thumbnail: /static/img/blåbär.jpg
+thumbnail: /static/img/thumb-1x/vaccinium-myrtillus.jpg
 gbif: '2882833'
 ---
 ## Generellt

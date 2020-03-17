@@ -1,7 +1,7 @@
 ---
 title: Björnbär
 latinName: Rubus fruticosus
-thumbnail: /static/img/rubus-plicatus-1.jpg
+thumbnail: /static/img/thumb-1x/rubus-plicatus-1.jpg
 tags: plant
 gbif: '8436459'
 ---
