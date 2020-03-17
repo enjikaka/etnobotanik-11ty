@@ -8,8 +8,6 @@ tags: plant
 
 I nordeuropeiska länder har kvanne med sin starka arom sedan gamla tider använts som universalmedicin. Det botaniska namnet anses härleda sig till örtens blomningstid, som enligt den förgregorianska kalendern inträffade kring Mikaeli. På den dagen skulle ärkeängeln Mikael dessutom ha uppenbarat sig för att prisa kvannens makt mot ondskan. Den fuktighetsälskande kvannen har sin hemort på sanka ängar och flodbäddar. De stora bladen förefaller tropiska och ger trädgården ett lummigt intryck.
 
-![](/static/img/angelica-archangelica-1.jpg)
-
 ## Användning
 
 Kvannens frön kan krossas och blandas med krossad stjälk för att smaksätta drinkar, exempelvis gin. Blanda hackade blad med syrlig frukt för att minska behovet av socker. Stjälken kan kanderas och användas till tårtor och desserter. Bladen kan användas för att ge ett rogivande bad.

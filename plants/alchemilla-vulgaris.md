@@ -1,8 +1,6 @@
 ---
 title: "Daggkåpa"
 latinName: "Alchemilla vulgaris"
-thumbnail: "/static/img/thumb-1x/alchemilla-vulgaris-1.jpg"
-plant_length: "10-50"
 tags: plant
 ---
 
@@ -13,8 +11,6 @@ Alchemilla kommer av arabiskans alkemelych (alkemi), "den lilla magiska". Så be
 "Kvinnans bästa vän" var ett smeknamn den fick för sin förmåga att ge menstruationen ett regelbundet förlopp, lindra klimakteriebesvär och bota infektioner i kvinnans underliv. Genom att regelbundet dricka ett te på daggkåpa skulle kvinnor engligt en tysk specialist slippa en tredjedel av alla underlivsoperationer.
 
 Daggkåpans blad är mjuka, blågröna, nästan runda med tandade uddar. Stjälken är luden och blommorna är små och gulgröna på sommaren. Blommorna är 3-4mm breda.
-
-![](/static/img/alchemilla-vulgaris-1.jpg)
 
 ## Användning
 

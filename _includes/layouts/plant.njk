@@ -16,9 +16,18 @@ section: plants
     {% endif %}
   </header>
 
-  <img src="{{ latinName | floraVonDeutschlandSrc }}" srcset="{{ latinName | floraVonDeutschlandSrcset }}" width="507px" sizes="507px" alt="Översiktbild på växtdelar av {{ title }}" />
+  <img src="{{ latinName | floraVonDeutschlandSrc }}" srcset="{{ latinName | floraVonDeutschlandSrcset }}" width="507px" sizes="507px" alt="Översiktsbild på växtdelar av {{ title }}" />
 
   {{ layoutContent | safe }}
+
+  <img src="{{ latinName | nordensFloraSrc }}" alt="Översiktsbild på växtdelar av {{ title }}" />
 </article>
 
 {% include "components/donate.njk" %}
+
+{% if imageCredit %}
+  <article>
+    Bilder från<br>
+    {{ imageCredit | generateCreditLinks | safe }}
+  </article>
+{% endif %}

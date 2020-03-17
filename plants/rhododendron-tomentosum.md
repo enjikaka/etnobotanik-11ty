@@ -1,18 +1,15 @@
 ---
 title: "Skvattram"
 latinName: "Rhododendron tomentosum"
-thumbnail: "/static/img/thumb-1x/rhododendron-tomentosum-1.jpg"
-plant_length: "30-100"
 tags: plant
+imageCredit: [
+  "https://commons.wikimedia.org/wiki/File:Ledum_palustre_subsp._diversipilosum_var._nipponicum_1.JPG"
+]
 ---
 
 ## Generellt
 
 Skvattram är en strakt doftande växt som blommar med vita blommor under juni och juli månad. Bladen är läderartade med nedvikt kant och står sig under vintern.
-
-![](/static/img/rhododendron-tomentosum-1.jpg)
-
-[_Bild från Qwert1234 via Wikimedia Commons_](https://commons.wikimedia.org/wiki/File:Ledum_palustre_subsp._diversipilosum_var._nipponicum_1.JPG)
 
 ## Användning
 

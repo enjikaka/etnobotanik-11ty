@@ -10,8 +10,6 @@ Nattljus passar utmärkt i en månskensträdgård då blommarna på den öppnar 
 
 Nattljus anses vara en synnerligen användbar planta inom genetiken. Medicinsk forskning försöker utröna hur fröet med sin ovanliga syra kan inverka fördelaktigt på premenstruella spänningar, klimakteriebesvär, psoriasis, blodpropp samt multipel skleros och andra handikappande sjukdomar.
 
-![](/static/img/oenothera-biennis-1.jpg)
-
 ## Användning
 
 Bladen och stjälken på Nattljus var förr omtyckt grönsak bland Nordamerikas indianer. Samla blad och stjäl-skal när blomstänglarna vuxit färdigt. Den kokta roten smakar likt palsternacka och skall grävas upp under hösten örtens andra år.

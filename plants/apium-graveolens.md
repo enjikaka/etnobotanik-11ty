@@ -8,8 +8,6 @@ tags: plant
 
 En krona av vildselleri förärades segrarna i de nemeiska spelen till den grekiske överguden Zeus förhärligande. Därefter dödades den nemeiske kungens son av en orm, göm i sellerins blad, som även fick göra tjänst som begravningskrans. Grekerna använde örten medicinskt också, och romarna hade glädje av den i köket. Av stjälkarna gjordes puré med peppar, libbsticka, oregano, lök och vin. Spädgris fylldes med bladen jämte dadlar och pinjefrö. På 1800-talet använde sekten shakers i USA plantan till patentmedicin.
 
-![](/static/img/apium-graveolens-1.jpg)
-
 ## Användning
 
 Sellerins frön kan malas ned och användas till sellerisalt. Fröna är goda i soppor, curryrätter, grytor och inläggningar. Fröna kan även ersätta salt i saltfattig diet. Bladen kan hackas och användas sparsamt i sallad, mjukost, fyllnad i fågel, och som garnering på mat. Blanda en handfull finhackade blad i mjölk till marinad för fisk och till skaldjurssås. Låt koka med de tre sista minuterna i grönsaksoppa eller stuvning, det gynnar smaken och hälsan.

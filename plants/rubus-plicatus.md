@@ -1,16 +1,14 @@
 ---
 title: Björnbär
 latinName: Rubus fruticosus
-thumbnail: /static/img/thumb-1x/rubus-plicatus-1.jpg
 tags: plant
-gbif: '8436459'
+gbif: 8436459
+imageCredit: [
+  "https://pixabay.com/sv/bj%C3%B6rnb%C3%A4r-vilda-b%C3%A4r-vilda-livsmedel-2344191/"
+]
 ---
 
 ## Generellt
-
-![](/static/img/rubus-plicatus-1.jpg)
-
-*[Bild från plantbasedrhn via Pixabay](https://pixabay.com/sv/bj%C3%B6rnb%C3%A4r-vilda-b%C3%A4r-vilda-livsmedel-2344191/)*
 
 Bladen är fingrade, mörkgröna på översidan, på undersidan kala eller småludna. De övervintrar ibland och är då gröna eller purpurröda. Björnbärsbusken är en sommargrön halvbuske med liggande, upprätta eller bågformigt böjda grenar. Blommor kommer på andraårsskotten. Blomningstid juni-augusti. Frukter i slutet av augusti.
 

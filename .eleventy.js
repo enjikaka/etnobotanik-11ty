@@ -10,6 +10,21 @@ module.exports = eleventyConfig => {
 
   eleventyConfig.addLayoutAlias("post", "layouts/post.njk");
 
+  eleventyConfig.addFilter('generateCreditLinks', links => {
+    return '<ul>' + links.map(link => `
+      <li><a href="${link}">${link}</a></li>
+    `).join('') + '</ul>';
+  });
+
+  eleventyConfig.addFilter('nordensFloraSrc', latinName => {
+    const path = latinName
+      .split(' ')
+      .map(s => s.toLocaleLowerCase())
+      .join('-');
+
+    return '/static/img/nordens-flora/' + path + '.jpg';
+  });
+
   eleventyConfig.addFilter('floraVonDeutschlandSrc', latinName => {
     const path = latinName
       .split(' ')

@@ -7,9 +7,6 @@ tags: plant
 
 ## Generellt
 
-
-![](/static/img/rubus-arcticus-1.jpg)
-
 ## Användning
 
 

@@ -8,8 +8,6 @@ tags: plant
 
 Den blygsamma danska körveln har länge varit förbisedd, men med sin fina och säregna smak av persilja och ett stänk av myrra blir den nu alltmer omtyckt igen. Den tillhör de traditionella _fines herbes_, oumbärliga i det franska köket, och är en frisk grön tillgång på varje matbord. De fjäderlika bladen smakar mest om plantorna får växa i halvskugga. I månsken ger de lätta vita blommorna ett magiskt skimmer åt örtagården under försommar och höst. Odla flera tillsammans i en skir grupp.
 
-![](/static/img/anthriscus-cerefolium-1.jpg)
-
 ## Användning
 
 Den danska körvelns blad kan användas rikligt i soppor, såser och sallader, bladen passar även utmärkt till kyckling, vit fisk och äggrätter. Tillsätt körvelns hackade blad när maten är färdiglagad. En liten mäng av de hackade bladen kan förstärka smakan på andra örter.Stjälken kan finhackad användas rå i sallader. Du kan låta stjälken koka med i soppor och grytor för bättre smak.

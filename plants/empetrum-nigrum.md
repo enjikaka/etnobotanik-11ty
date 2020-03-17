@@ -2,15 +2,14 @@
 title: Kråkbär
 latinName: Empetrum nigrum
 tags: plant
+imageCredit: [
+  "https://commons.wikimedia.org/wiki/File:Empetrum_nigrum_(1).JPG"
+]
 ---
 
 ## Generellt
 
 Barrlika blad. Svar bärlik stenfrukt.
-
-![](/static/img/empetrum-nigrum-1.jpg)
-
-[_Bild från Hajotthu via Wikimedia (2008)_](https://commons.wikimedia.org/wiki/File:Empetrum_nigrum_(1).JPG)
 
 ## Användning
 

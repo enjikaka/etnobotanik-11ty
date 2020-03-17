@@ -8,8 +8,6 @@ tags: plant
 
 För länge sedan använde egyptierna dill som lugnande medicin, och grekerna sade att dillen stillar hicka. På medeltiden ingick dill bland midsommarnattens örter mot häxeri, och vanligt folk gjorde sitt vin till kärleksdryck genom att tillsätta dill.
 
-![](/static/img/anethum-graveolens-1.jpg)
-
 ## Användning
 
 Dillens frön kan användas hela eller malda till soppor, fiskrätter, inläggningar, matbröd och kryddsmör. Fröna är bra för matsmältningen. Dillens krona är starkare och sötaren en bladen och fräschare än dess frön. Kronan kan användas till inlagd gurka eller blomkål. Dillens blad passar utmärkt att användas till färskpotatis, fiskrätter, dillsås och till garnering. Finhackade blad i potatissallad, på kokta grönsaker och på grillat kött är också ett bra förslag.

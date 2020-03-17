@@ -12,8 +12,6 @@ Brännässlan är en flerårig ört med hon- och hanblommor på skilda plantor u
 
 Brännässlan är mycket rik på vitaminer och mineraler.
 
-![](/static/img/urtica-dioica-1.jpg)
-
 ## Användning
 
 När plantorna på våren är nästan nyuppkommna är ett bra tips att skörda dessa och låta de torka i ett mörk rum, varefter när de torkat du mala ned dem till pulver. Detta nässelpulver innehåller många vitaminer och mineraler och 1 tsk varje dag av detta ger dig ett bra kosttillskott.
