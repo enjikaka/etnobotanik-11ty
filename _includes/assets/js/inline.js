@@ -8,11 +8,19 @@ if (window.netlifyIdentity) {
   });
 }
 
+const fallbackImage = img => {
+  img.setAttribute('src', '/static/img/fallback-plant.svg');
+  img.removeAttribute('srcset');
+};
+
 document.addEventListener('DOMContentLoaded', () => {
-  [...document.querySelectorAll('.plants-list img')]
-    .filter(img => img.naturalWidth === 0)
-    .forEach(img => {
-      img.setAttribute('src', '/static/img/fallback-plant.svg');
-      img.removeAttribute('srcset');
-    });
+  const images = [...document.querySelectorAll('.plants-list img')];
+
+  images
+    .filter(img => img.complete && img.naturalWidth === 0)
+    .forEach(fallbackImage);
+
+  images.filter(img => !img.complete).forEach(img => {
+    img.onerror => () => fallbackImage(img);
+  });
 });
