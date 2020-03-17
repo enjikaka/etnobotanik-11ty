@@ -10,6 +10,8 @@
               src="{{plantPage.data.latinName | thumbnailSrc}}"
               srcset="{{ plantPage.data.latinName | thumbnailSrcset }}"
               sizes="64px" alt="Bild på {{ plantPage.data.title }}"
+              decoding="async"
+              loading="lazy"
             >
           </figure>
           {{ plantPage.data.title }} ({{ plantPage.data.latinName }})
