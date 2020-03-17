@@ -21,6 +21,6 @@ document.addEventListener('DOMContentLoaded', () => {
     .forEach(fallbackImage);
 
   images.filter(img => !img.complete).forEach(img => {
-    img.onerror => () => fallbackImage(img);
+    img.onerror = () => fallbackImage(img);
   });
 });
