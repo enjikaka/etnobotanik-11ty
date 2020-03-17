@@ -3,7 +3,8 @@ title: "Skvattram"
 latinName: "Rhododendron tomentosum"
 tags: plant
 imageCredit: [
-  "https://commons.wikimedia.org/wiki/File:Ledum_palustre_subsp._diversipilosum_var._nipponicum_1.JPG"
+  "https://commons.wikimedia.org/wiki/File:Ledum_palustre_subsp._diversipilosum_var._nipponicum_1.JPG",
+  "https://sv.wikipedia.org/wiki/Fil:Mrzezyno_reserve_Ledum_palustre_2010-07.jpg"
 ]
 ---
 
@@ -27,18 +28,11 @@ Som afrodisiakum skall växten också kunna användas. Experiment från professo
 
 ![](/static/img/rhododendron-tomentosum-2.jpg)
 
-
-[_Bild från JDavid via Wikimedia Commons_](https://sv.wikipedia.org/wiki/Fil:Mrzezyno_reserve_Ledum_palustre_2010-07.jpg)
-
 ## Odling
 
 Svattram blir 30-100 cm. Växer i fuktig skogsmark och på mossar och förkommer i hela Finland och Sverige, dock sällsyntare i sydligaste Götaland. Egendomligt utbredning i Norge; sällsynt kring Kristianiafjorden och växter knappt annars norröver förutom i Finnmarken där den växer allmänt längst österut - varför den kallas Finnmarkspors på norska.
 
 ## Övrigt
-
-![](/static/img/rhododendron-tomentosum-4.jpg)
-
-[_Bild från Carl Axel Magnus Lindman via Bilder ur Nordens Flora_](http://runeberg.org/nordflor/151.html)
 
 Skvattram innehåller bland annat arbutin, ericolin, ericinol, leditansyra, ledol, myrcen, palustrol och quercetin. Alla delar av plantan innehåller giftiga terpener som påverkar det centrala nervsystemet. En överdos medför yrighet och dålig balans följt av illamående och omedvetenhet. Blott lukten av Skvattram framkallar huvudverk på en del människor.
 
