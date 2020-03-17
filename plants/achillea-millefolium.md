@@ -7,8 +7,6 @@ gbif: 9221087
 tags: plant
 ---
 
-![](/static/img/achillea-millefolium-3.jpg)
-
 [_Bild från Otto Wilhelm Thomé (1885)_](https://sv.wikipedia.org/wiki/Otto_Wilhelm_Thom%C3%A9)
 
 ## Generellt

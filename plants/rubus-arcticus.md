@@ -5,8 +5,6 @@ plant_length: "10-30"
 tags: plant
 ---
 
-![](/static/img/rubus-arcticus-3.jpg)
-
 ## Generellt
 
 

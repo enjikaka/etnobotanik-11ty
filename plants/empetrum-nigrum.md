@@ -1,13 +1,8 @@
 ---
 title: Kråkbär
 latinName: Empetrum nigrum
-plant_length: "10-20"
 tags: plant
 ---
-
-![](/static/img/empetrum-nigrum-3.jpg)
-
-[_Bild från Otto Wilhelm Thomé (1885)_](https://sv.wikipedia.org/wiki/Otto_Wilhelm_Thom%C3%A9)
 
 ## Generellt
 

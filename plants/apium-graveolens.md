@@ -1,14 +1,8 @@
 ---
-title: "Vildselleri"
-latinName: "Apium graveolens"
-thumbnail: "/static/img/thumb-1x/apium-graveolens-1.jpg"
-plant_length: "20-80"
+title: Vildselleri
+latinName: Apium graveolens
 tags: plant
 ---
-
-![](/static/img/apium-graveolens-3.jpg)
-
-[_Bild från Otto Wilhelm Thomé (1885)_](https://sv.wikipedia.org/wiki/Otto_Wilhelm_Thom%C3%A9)
 
 ## Generellt
 

@@ -1,14 +1,8 @@
 ---
 title: "Nattljus"
 latinName: "Oenothera biennis"
-thumbnail: "/static/img/thumb-1x/oenothera-biennis-1.jpg"
-plant_length: "80-200"
 tags: plant
 ---
-
-![](/static/img/oenothera-biennis-3.jpg)
-
-[_Bild från Otto Wilhelm Thomé (1885)_](https://sv.wikipedia.org/wiki/Otto_Wilhelm_Thom%C3%A9)
 
 ## Generellt
 

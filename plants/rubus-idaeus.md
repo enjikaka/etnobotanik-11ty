@@ -5,8 +5,6 @@ tags: plant
 gbif: '2993094'
 ---
 
-![](/static/img/rubus-idaeus-3.jpg)
-
 ## Generellt
 
 ## Användning

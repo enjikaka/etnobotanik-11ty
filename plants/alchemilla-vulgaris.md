@@ -6,10 +6,6 @@ plant_length: "10-50"
 tags: plant
 ---
 
-![](/static/img/alchemilla-vulgaris-3.jpg)
-
-[_Bild från Otto Wilhelm Thomé (1885)_](https://sv.wikipedia.org/wiki/Otto_Wilhelm_Thom%C3%A9)
-
 ## Generellt
 
 Alchemilla kommer av arabiskans alkemelych (alkemi), "den lilla magiska". Så benämndes örten för sitt goda rykte som läkeväxt och för den droppe - av dagg, trodde man - som brukar glänsa i bladets grop. Daggdroppar har inspirerat flera poeter och alkemister genom tiderna. Inom kristendomen har den välgörande örten kallats "Vår frus mantel".

@@ -1,14 +1,8 @@
 ---
 title: "Kvanne"
 latinName: "Angelica archangelica"
-thumbnail: "/static/img/thumb-1x/angelica-archangelica-1.jpg"
-plant_length: "100-200"
 tags: plant
 ---
-
-![](/static/img/angelica-archangelica-3.jpg)
-
-[_Bild från Otto Wilhelm Thomé (1885)_](https://sv.wikipedia.org/wiki/Otto_Wilhelm_Thom%C3%A9)
 
 ## Generellt
 

@@ -10,6 +10,28 @@ module.exports = eleventyConfig => {
 
   eleventyConfig.addLayoutAlias("post", "layouts/post.njk");
 
+  eleventyConfig.addFilter('floraVonDeutschlandSrc', latinName => {
+    const path = latinName
+      .split(' ')
+      .map(s => s.toLocaleLowerCase())
+      .join('-');
+
+    return '/static/img/flora-von-deutschland-500/' + path + '.jpg';
+  });
+
+  eleventyConfig.addFilter('floraVonDeutschlandSrcset', latinName => {
+    const widths = [500, 750, 1024];
+    const path = latinName
+      .split(' ')
+      .map(s => s.toLocaleLowerCase())
+      .join('-');
+
+    return widths.map(
+      width =>
+        `/static/img/flora-von-deutschland-${width}/${path}.jpg ${width}w`
+    );
+  });
+
   eleventyConfig.addFilter('thumbnailSrc', latinName => {
     const path = latinName
       .split(' ')

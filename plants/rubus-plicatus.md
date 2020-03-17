@@ -5,9 +5,6 @@ thumbnail: /static/img/thumb-1x/rubus-plicatus-1.jpg
 tags: plant
 gbif: '8436459'
 ---
-![](/static/img/rubus-plicatus-3.jpg)
-
-*[Bild från Otto Wilhelm Thomé (1885)](https://sv.wikipedia.org/wiki/Otto_Wilhelm_Thom%C3%A9)*
 
 ## Generellt
 

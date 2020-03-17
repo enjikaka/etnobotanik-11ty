@@ -1,14 +1,8 @@
 ---
 title: "Dansk körvel"
 latinName: "Anthriscus cerefolium"
-thumbnail: "/static/img/thumb-1x/anthriscus-cerefolium-1.jpg"
-plant_length: "20-35"
 tags: plant
 ---
-
-![](/static/img/anthriscus-cerefolium-3.jpg)
-
-[_Bild från Otto Wilhelm Thomé (1885)_](https://sv.wikipedia.org/wiki/Otto_Wilhelm_Thom%C3%A9)
 
 ## Generellt
 

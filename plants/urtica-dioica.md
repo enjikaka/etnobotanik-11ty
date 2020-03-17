@@ -1,13 +1,8 @@
 ---
-title: "Brännässla"
-latinName: "Urtica dioica"
-thumbnail: "/static/img/thumb-1x/urtica-dioica-1.jpg"
+title: Brännässla
+latinName: Urtica dioica
 tags: plant
 ---
-
-![](/static/img/urtica-dioica-3.jpg)
-
-[_Bild från Otto Wilhelm Thomé (1885)_](https://sv.wikipedia.org/wiki/Otto_Wilhelm_Thom%C3%A9)
 
 ## Generellt
 

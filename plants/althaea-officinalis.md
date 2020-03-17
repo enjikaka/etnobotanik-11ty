@@ -6,10 +6,6 @@ plant_length: "-200"
 tags: plant
 ---
 
-![](/static/img/althaea-officinalis-3.jpg)
-
-[_Bild från Otto Wilhelm Thomé (1885)_](https://sv.wikipedia.org/wiki/Otto_Wilhelm_Thom%C3%A9)
-
 ## Generellt
 
 Läkemalvans rot innehåller ett slem som tjocknar i vatten och som förr brukade upphettas med socker till en mild, lindrande pasta. Det är den som givit läkemalvan dess engelska namn, Marsh mallow, vilket fortfarande är namnet på en mjuk konfekt, känd även i Sverige. Numera tillverkas dock konfekten av andra ingredienser.

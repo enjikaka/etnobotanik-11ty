@@ -11,10 +11,12 @@ section: plants
     </div>
     {% if latinName %}
     <figure>
-      <img src="{{ latinName | thumbnailSrc }}" srcset="{{ latinName | thumbnailSrcset }}" sizes="144px" alt="Utvald bild på {{ title }}" data-attribution="{{thumbnail_attribution}}" />
+      <img src="{{ latinName | thumbnailSrc }}" srcset="{{ latinName | thumbnailSrcset }}" sizes="144px" alt="Utvald bild på {{ title }}" />
     </figure>
     {% endif %}
   </header>
+
+  <img src="{{ latinName | floraVonDeutschlandSrc }}" srcset="{{ latinName | floraVonDeutschlandSrcset }}" width="507px" sizes="507px" alt="Översiktbild på växtdelar av {{ title }}" />
 
   {{ layoutContent | safe }}
 </article>
