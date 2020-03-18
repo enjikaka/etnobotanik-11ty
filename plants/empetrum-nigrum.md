@@ -22,5 +22,4 @@ Kråkbär är en bra törstsläckare.
 
 ## Odling
 
-Växer å heder och i bergsskrevor. Förkommer allmänt i Sverige. De bärlika frukterna kan plockas från augusti och genom hela vintern om det är snöfritt.
-
+Växer på heder och i bergsskrevor. Förkommer allmänt i Sverige. De bärlika frukterna kan plockas från augusti och genom hela vintern om det är snöfritt.
