@@ -2,14 +2,13 @@
 title: Hjortron
 latinName: Rubus chamaemorus
 tags: plant
-thumbnail: /static/img/thumb-1x/rubus-chamaemorus.jpg
-thumbnail_attribution: 'https://commons.wikimedia.org/wiki/File:Salmonberry07.jpg'
-gbif: '2998290'
+gbif: 2998290
+imageCredit: [
+  "https://commons.wikimedia.org/wiki/File:Salmonberry07.jpg"
+]
 ---
 
 ## Generellt
-
-${generatedIntro}
 
 Hjortron är ett omtyckt bär i skogarna.
 

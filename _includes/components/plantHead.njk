@@ -1,8 +1,13 @@
 <script type="application/ld+json">
 {
   "@type": "Product",
-  "image": "{{ thumbnail }}",
+  "image": "{{ latinName | thumbnailSrc }}",
   "url": "{{ page.url }}",
   "name": "{{ title }}"
 }
 </script>
+<meta property="og:title" content="{{ title }}">
+<meta property="og:description" content="{{ latinName }}">
+<meta property="og:image" content="{{ latinName | floraVonDeutschlandSrc }}">
+<meta property="og:url" content="{{ page.url }}">
+<meta name="twitter:card" content="summary_large_image">
