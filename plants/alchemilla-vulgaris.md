@@ -1,7 +1,12 @@
 ---
 title: "Daggkåpa"
 latinName: "Alchemilla vulgaris"
-tags: plant
+tags:
+  - acne
+  - sårläkning
+  - infektion
+  - menstruation
+  - klimakteriebesvär
 ---
 
 ## Generellt

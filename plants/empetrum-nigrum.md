@@ -1,7 +1,11 @@
 ---
 title: Kråkbär
 latinName: Empetrum nigrum
-tags: plant
+tags:
+  - bär
+  - fiber
+  - urindrivande
+  - antioxidanter
 imageCredit: [
   "https://commons.wikimedia.org/wiki/File:Empetrum_nigrum_(1).JPG",
   "https://commons.wikimedia.org/wiki/File:Empetrum_nigrum_by_Maseltov_2.jpg"

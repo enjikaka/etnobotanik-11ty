@@ -2,6 +2,10 @@
 title: Blåbär
 latinName: Vaccinium myrtillus
 thumbnail: /static/img/thumb-1x/vaccinium-myrtillus.jpg
+tags:
+  - bär
+  - sylt
+  - saft
 gbif: '2882833'
 ---
 ## Generellt

@@ -1,7 +1,8 @@
 ---
 title: Hjortron
 latinName: Rubus chamaemorus
-tags: plant
+tags:
+  - bär
 gbif: 2998290
 imageCredit: [
   "https://commons.wikimedia.org/wiki/File:Salmonberry07.jpg"

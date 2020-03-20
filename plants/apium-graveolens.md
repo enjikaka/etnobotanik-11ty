@@ -1,7 +1,13 @@
 ---
 title: Vildselleri
 latinName: Apium graveolens
-tags: plant
+tags:
+  - krydda
+  - sallad
+  - lugnande
+  - aptitretande
+  - matsmältning
+  - urindrivande
 ---
 
 ## Generellt

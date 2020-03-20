@@ -21,6 +21,12 @@ section: plants
   {{ layoutContent | safe }}
 
   <img src="{{ latinName | nordensFloraSrc }}" alt="Översiktsbild på växtdelar av {{ title }}" />
+
+  <footer>
+    <div class="tags">
+      {{ tags | generateTagLinks | safe }}
+    </div>
+  </footer>
 </article>
 
 {% include "components/donate.njk" %}

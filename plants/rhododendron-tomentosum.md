@@ -1,7 +1,12 @@
 ---
-title: "Skvattram"
-latinName: "Rhododendron tomentosum"
-tags: plant
+title: Skvattram
+latinName: Rhododendron tomentosum
+tags:
+  - öl
+  - ohyra
+  - myggmedel
+  - berusning
+  - afrodisiakum
 imageCredit: [
   "https://commons.wikimedia.org/wiki/File:Ledum_palustre_subsp._diversipilosum_var._nipponicum_1.JPG",
   "https://sv.wikipedia.org/wiki/Fil:Mrzezyno_reserve_Ledum_palustre_2010-07.jpg"

@@ -1,7 +1,10 @@
 ---
 title: Björnbär
 latinName: Rubus fruticosus
-tags: plant
+tags:
+  - bär
+  - saft
+  - sylt
 gbif: 8436459
 imageCredit: [
   "https://pixabay.com/sv/bj%C3%B6rnb%C3%A4r-vilda-b%C3%A4r-vilda-livsmedel-2344191/",

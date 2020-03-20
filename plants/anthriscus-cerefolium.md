@@ -1,7 +1,16 @@
 ---
-title: "Dansk körvel"
-latinName: "Anthriscus cerefolium"
-tags: plant
+title: Dansk körvel
+latinName: Anthriscus cerefolium
+tags:
+  - sallad
+  - krydda
+  - rynkor
+  - C-vitamin
+  - karotin
+  - järn
+  - magnesium
+  - matsmältning
+  - snuva
 ---
 
 ## Generellt
@@ -10,7 +19,7 @@ Den blygsamma danska körveln har länge varit förbisedd, men med sin fina och 
 
 ## Användning
 
-Den danska körvelns blad kan användas rikligt i soppor, såser och sallader, bladen passar även utmärkt till kyckling, vit fisk och äggrätter. Tillsätt körvelns hackade blad när maten är färdiglagad. En liten mäng av de hackade bladen kan förstärka smakan på andra örter.Stjälken kan finhackad användas rå i sallader. Du kan låta stjälken koka med i soppor och grytor för bättre smak.
+Den danska körvelns blad kan användas rikligt i soppor, såser och sallader, bladen passar även utmärkt till kyckling, vit fisk och äggrätter. Tillsätt körvelns hackade blad när maten är färdiglagad. En liten mäng av de hackade bladen kan förstärka smakan på andra örter. Stjälken kan finhackad användas rå i sallader. Du kan låta stjälken koka med i soppor och grytor för bättre smak.
 
 Gör avkok eller ansiktsmask av bladen för rengöring av hyn, för att mjuka upp och för att motverka rynkor.
 

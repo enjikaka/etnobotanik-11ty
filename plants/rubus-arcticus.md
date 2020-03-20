@@ -1,8 +1,6 @@
 ---
 title: Åkerbär
 latinName: Rubus arcticus
-plant_length: "10-30"
-tags: plant
 ---
 
 ## Generellt

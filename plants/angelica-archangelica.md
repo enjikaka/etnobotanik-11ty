@@ -1,7 +1,16 @@
 ---
 title: "Kvanne"
 latinName: "Angelica archangelica"
-tags: plant
+tags:
+  - konfekt
+  - sockerersättning
+  - parfym
+  - frukt
+  - potpurri
+  - hosta
+  - snuva
+  - frisk luft
+  - åksjuka
 ---
 
 ## Generellt
@@ -14,7 +23,7 @@ Kvannens frön kan krossas och blandas med krossad stjälk för att smaksätta d
 
 Med kvannens frön kan du parfymera rummet genom att bränna dessa i en stekpanna. Kvannens blad passar bra i potpurrier. Ur roten kan på våren en snitt skäras och en väldoftande vätska tappas, denna kan användas som bindemedel i potpurri.
 
-Som läkemedel kan man göra te på kvannens färska eller torkade blad, detta te är bra mot hosta, snuva och väderspänning. Krossade blad gör luften frisk i bilden och minskar risken för åksjuka.
+Som läkemedel kan man göra te på kvannens färska eller torkade blad, detta te är bra mot hosta, snuva och väderspänning. Krossade blad gör luften frisk i bilen och minskar risken för åksjuka.
 
 ![](/static/img/angelica-archangelica-2.jpg)
 

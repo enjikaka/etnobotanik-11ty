@@ -1,7 +1,12 @@
 ---
 title: Brännässla
 latinName: Urtica dioica
-tags: plant
+tags:
+  - kosttillskott
+  - urindrivande
+  - magbesvär
+  - sallad
+  - soppa
 ---
 
 ## Generellt

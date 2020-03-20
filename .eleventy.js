@@ -10,6 +10,12 @@ module.exports = eleventyConfig => {
 
   eleventyConfig.addLayoutAlias("post", "layouts/post.njk");
 
+  eleventyConfig.addFilter('generateTagLinks', tags => {
+    return '<ul>' + tags.map(tag => `
+      <li><a href="/tags/${tag}" rel="tag">${tag}</a></li>
+    `).join('') + '</ul>';
+  });
+
   eleventyConfig.addFilter('generateCreditLinks', links => {
     return '<ul>' + links.map(link => `
       <li><a href="${link}">${link}</a></li>
@@ -97,10 +103,15 @@ module.exports = eleventyConfig => {
   });
 
   // only content in the `posts/` directory
-  eleventyConfig.addCollection("posts", function(collection) {
+  eleventyConfig.addCollection('posts', function(collection) {
     return collection.getAllSorted().filter(function(item) {
       return item.inputPath.match(/^\.\/posts\//) !== null;
     });
+  });
+
+  eleventyConfig.addCollection('plants', function (collection) {
+    // Also accepts an array of globs!
+    return collection.getFilteredByGlob(["plants/*.md"]);
   });
 
   // Don't process folders with static assets e.g. images

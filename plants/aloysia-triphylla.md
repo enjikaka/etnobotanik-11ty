@@ -1,7 +1,13 @@
 ---
 title: "Citronverbena"
 latinName: "Aloysia triphylla"
-tags: plant
+tags:
+  - te
+  - konfekt
+  - potpurri
+  - snuva
+  - halsont
+  - magbesvär
 ---
 
 ## Generellt

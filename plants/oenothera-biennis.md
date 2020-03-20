@@ -1,7 +1,10 @@
 ---
-title: "Nattljus"
-latinName: "Oenothera biennis"
-tags: plant
+title: Nattljus
+latinName: Oenothera biennis
+tags:
+  - hosta
+  - grönsak
+  - rot
 ---
 
 ## Generellt

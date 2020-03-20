@@ -1,8 +1,12 @@
 ---
-title: "Rölleka"
-latinName: "Achillea millefolium"
+title: Rölleka
+latinName: Achillea millefolium
 gbif: 9221087
-tags: plant
+tags:
+  - krydda
+  - tandvärk
+  - menstruation
+  - förkylning
 imageCredit: [
   "https://pixabay.com/sv/achillea-millefolium-yarrow-white-1524795/",
   "https://pixabay.com/sv/achillea-millefolium-yarrow-844587/"

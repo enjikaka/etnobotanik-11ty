@@ -1,7 +1,11 @@
 ---
-title: "Dill"
-latinName: "Anethum graveolens"
-tags: plant
+title: Dill
+latinName: Anethum graveolens
+tags:
+  - krydda
+  - andedräkt
+  - matsmältning
+  - sömnlöshet
 ---
 
 ## Generellt

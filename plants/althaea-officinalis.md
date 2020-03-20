@@ -1,7 +1,14 @@
 ---
-title: "Läkemalva"
-latinName: "Althaea officinalis"
-tags: plant
+title: Läkemalva
+latinName: Althaea officinalis
+tags:
+  - hosta
+  - sallad
+  - grönsak
+  - diarré
+  - sömnlöshet
+  - tvål
+  - halsont
 ---
 
 ## Generellt

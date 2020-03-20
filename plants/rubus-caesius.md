@@ -1,7 +1,6 @@
 ---
 title: Blåhallon
 latinName: Rubus caesius
-tags: plant
 ---
 
 ## Generellt
