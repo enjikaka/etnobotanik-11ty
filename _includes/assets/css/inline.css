@@ -229,12 +229,6 @@ button {
 	display: block;
 }
 
-@media screen and (min-width:768px) {
-	:root {
-		font-size: 1.1rem;
-	}
-}
-
 .tags {
 	margin: 2rem 1rem 1rem;
 }
