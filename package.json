@@ -2,6 +2,10 @@
   "name": "etnobotanik-11ty",
   "version": "1.0.4",
   "description": "11ty with Netlify CMS",
+  "engines": {
+    "node": "^13",
+    "npm": "^6"
+  },
   "scripts": {
     "build": "npx eleventy",
     "serve": "npx eleventy --serve",
