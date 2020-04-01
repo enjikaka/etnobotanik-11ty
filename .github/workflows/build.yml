@@ -37,7 +37,8 @@ jobs:
       with:
         name: _site
     - name: Deploy to IPFS
-      uses: aquiladev/ipfs-action@v0.1.2-alpha
-      id: upload
+      uses: ipfs-shipyard/ipfs-github-action
+      env:
+        CLUSTER_USER: 12D3KooWGFXZKagbnnmmxhfi5s5Ewx7Nfm3ubENDpYowgrosJyQX
       with:
-        path: ./_site
+        args: ./_site
