@@ -10,7 +10,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    - uses: aquiladev/ipfs-action@v1
+    - uses: aquiladev/ipfs-action@v0.1.1
       id: upload
       with:
         path: ./_site
