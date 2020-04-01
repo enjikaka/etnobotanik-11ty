@@ -37,8 +37,8 @@ jobs:
       with:
         name: _site
     - name: Deploy to IPFS
-      uses: ipfs-shipyard/ipfs-github-action
+      uses: ipfs-shipyard/ipfs-github-action@master
       env:
         CLUSTER_USER: 12D3KooWGFXZKagbnnmmxhfi5s5Ewx7Nfm3ubENDpYowgrosJyQX
       with:
-        args: "_site"
+        args: _site
