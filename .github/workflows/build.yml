@@ -23,11 +23,21 @@ jobs:
     - run: npm test
       env:
         CI: true
+    - name: Archive production artifact
+      uses: actions/upload-artifact@v1
+      with:
+        name: _site
+        path: _site
   deploy:
     needs: build
     runs-on: ubuntu-latest
     steps:
-    - uses: aquiladev/ipfs-action@v0.1.1
+    - name: Download production artifact
+      uses: actions/download-artifact@v1
+      with:
+        name: _site
+    - name: Deploy to IPFS
+      uses: aquiladev/ipfs-action@v0.1.1
       id: upload
       with:
         path: ./_site
