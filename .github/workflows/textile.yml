@@ -6,7 +6,8 @@ on:
 jobs:
   bucket_publish:
     env:
-      BUCKET_NAME: 'etnobotanik'
+      BUCKET: 'etnobotanik'
+      THREAD: 'bafkv3rhaamn56x77276lddjifcieakxbydi6giqmpux6yzz6k345wqy'
     runs-on: ubuntu-latest
     name: Create a Textile Bucket
     steps:
@@ -25,10 +26,11 @@ jobs:
       id: push
       uses: textileio/github-action-bucket-push@master
       with:
-        bucket: '${{ env.BUCKET_NAME }}'
+        bucket: '${{ env.BUCKET }}'
         path: '_site/*'
         key: ${{ secrets.TEXTILE_KEY }}
         secret: ${{ secrets.TEXTILE_SECRET }}
+        thread: '${{ env.THREAD }}'
     # Use the output from the `hello` step
     - name: Get the output CID
       run: echo "The CID was ${{ steps.push.outputs.cid }}"
