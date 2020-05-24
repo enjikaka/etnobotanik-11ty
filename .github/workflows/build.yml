@@ -32,7 +32,6 @@ jobs:
     needs: build
     runs-on: ubuntu-latest
     env:
-      BUCKET: 'etnobotanik'
       THREAD: 'bafkv3rhaamn56x77276lddjifcieakxbydi6giqmpux6yzz6k345wqy'
     steps:
       - name: Download production artifact
@@ -43,7 +42,6 @@ jobs:
         id: push
         uses: textileio/github-action-bucket-push@master
         with:
-          bucket: ${{ env.BUCKET }}
           path: _site
           key: ${{ secrets.TEXTILE_KEY }}
           secret: ${{ secrets.TEXTILE_SECRET }}
