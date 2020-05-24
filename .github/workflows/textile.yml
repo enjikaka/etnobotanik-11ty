@@ -27,7 +27,7 @@ jobs:
       uses: textileio/github-action-bucket-push@master
       with:
         bucket: '${{ env.BUCKET }}'
-        path: '_site/*'
+        path: './_site'
         key: ${{ secrets.TEXTILE_KEY }}
         secret: ${{ secrets.TEXTILE_SECRET }}
         thread: '${{ env.THREAD }}'
