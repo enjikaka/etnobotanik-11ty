@@ -29,12 +29,12 @@ Använd bladavkok eller vätskan ur blötlagd rot, kall eller varm, för händer
 
 ## Odling
 
-Läkemalvan höjd blir inte längre än 2 meter. Blommorna är stora vita eller rosa. Läkemalvan blommar under sensommaren och tidig höst. Bladen är stora, ludna, tandade och grågröna med växtslem innuti. Stjälken är luden, rund och ljust grön.
+Läkemalvans höjd blir inte längre än 2 meter. Blommorna är stora vita eller rosa. Läkemalvan blommar under sensommaren och tidig höst. Bladen är stora, ludna, tandade och grågröna med växtslem innuti. Stjälken är luden, rund och ljust grön.
 
-Läkemalvan växer helst i fuktig och måttligt näringsrik jord i full sol. För att föröka plantan skall frön sås eller plantor delas på våren. Gallra plantor till 30 cm avstånd. Andra året till 60 cm. Läkemalvan passar inte för inomhusodling
+Läkemalvan växer helst i fuktig och måttligt näringsrik jord i full sol. För att föröka plantan skall frön sås eller plantor delas på våren. Gallra plantor till 30 cm avstånd. Andra året till 60 cm. Läkemalvan passar inte för inomhusodling.
 
 Skörda mogna frön, plocka blad vid behöv och gräv upp rötter på hösten. Försvara torkade frön och blad. Skala och torka rötterna eller gör sirap av dem.
 
 ## Övrigt
 
-I pillerindustrin har ett pulver av roten använts som bindmedel. Läkemalvans blad passar fint som dekoration i buketter.
+I pillerindustrin har ett pulver av roten använts som bindemedel. Läkemalvans blad passar fint som dekoration i buketter.
