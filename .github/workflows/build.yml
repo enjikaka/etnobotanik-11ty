@@ -28,31 +28,6 @@ jobs:
       with:
         name: _site
         path: _site
-  textile_deploy:
-    needs: build
-    runs-on: ubuntu-latest
-    env:
-      THREAD: 'bafkv3rhaamn56x77276lddjifcieakxbydi6giqmpux6yzz6k345wqy'
-    steps:
-      - name: Download production artifact
-        uses: actions/download-artifact@v1
-        with:
-          name: _site
-      - name: Bucket push action
-        id: push
-        uses: textileio/github-action-bucket-push@master
-        with:
-          path: _site
-          key: ${{ secrets.TEXTILE_KEY }}
-          secret: ${{ secrets.TEXTILE_SECRET }}
-          thread: ${{ env.THREAD }}
-      - run: echo "bucket - ${{ steps.bucket.outputs.bucket }}"
-      - run: echo "ipfs - ${{ steps.bucket.outputs.ipfs }}"
-      - run: echo "ipfs link - ${{ steps.bucket.outputs.ipfsUrl }}"
-      - run: echo "ipns - ${{ steps.bucket.outputs.ipns }}"
-      - run: echo "ipns link - ${{ steps.bucket.outputs.ipnsUrl }}"
-      - run: echo "hub - ${{ steps.bucket.outputs.hub }}"
-      - run: echo "www - ${{ steps.bucket.outputs.www }}"
   deploy:
     needs: build
     runs-on: ubuntu-latest
