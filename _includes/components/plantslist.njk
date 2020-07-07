@@ -13,7 +13,10 @@
               loading="lazy"
             >
           </figure>
-          {{ plantPage.data.title }} ({{ plantPage.data.latinName }})
+          <div class="text">
+            <span>{{ plantPage.data.title }}</span>
+            <small>{{ plantPage.data.latinName }}</small>
+          </div>
         </a>
       </li>
     {%- endif %}
