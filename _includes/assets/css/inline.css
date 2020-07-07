@@ -93,6 +93,8 @@ pre {
 	padding: 0 1.2rem;
 	letter-spacing: 0.8px;
 	box-sizing: border-box;
+	flex-shrink: 0;
+	contain: strict;
 }
 
 .app-header {

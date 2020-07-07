@@ -18,7 +18,7 @@ module.exports = eleventyConfig => {
 
   eleventyConfig.addFilter('generateCreditLinks', links => {
     return '<ul>' + links.map(link => `
-      <li><a href="${link}">${link}</a></li>
+      <li><a href="${link}">${new URL(link).hostname}</a></li>
     `).join('') + '</ul>';
   });
 
