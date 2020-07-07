@@ -9,6 +9,6 @@ Välkommen till Etnobotanik Arkivet! Denna sida innerhåller massor med informat
 
 Informationen på sidan kommer från diverse böcker, tidskrifter och webbplatser. Har du någon bra information om någon planta, eller kanske du har tagit en fin bild på en av dem? Då är du välkommen att maila detta till oss om du vill få med det på sidan!
 
-Observera att sidan fortfarane är i startfasen, så en del ostabilitet är att förvänta!
+Observera att sidan fortfarande är i startfasen, så en del ostabilitet är att förvänta!
 
 etnobotanik@vufuzi.se
