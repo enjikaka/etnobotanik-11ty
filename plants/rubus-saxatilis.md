@@ -8,8 +8,6 @@ thumbnail_attribution: 'https://commons.wikimedia.org/wiki/File:Rubus_saxatilis0
 gbif: '2992808'
 ---
 
-## Generellt
-
 ## Användning
 
 ## Odling

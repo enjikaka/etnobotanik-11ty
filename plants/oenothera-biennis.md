@@ -7,8 +7,6 @@ tags:
   - rot
 ---
 
-## Generellt
-
 Nattljus passar utmärkt i en månskensträdgård då blommarna på den öppnar såg för att välkomna kvällen med en angenäm doft och ett underligt fosforescerande ljus. På sensommaren kan blommorna även vara utslagna under dagen.
 
 Nattljus anses vara en synnerligen användbar planta inom genetiken. Medicinsk forskning försöker utröna hur fröet med sin ovanliga syra kan inverka fördelaktigt på premenstruella spänningar, klimakteriebesvär, psoriasis, blodpropp samt multipel skleros och andra handikappande sjukdomar.

@@ -9,8 +9,6 @@ tags:
   - klimakteriebesvär
 ---
 
-## Generellt
-
 Alchemilla kommer av arabiskans alkemelych (alkemi), "den lilla magiska". Så benämndes örten för sitt goda rykte som läkeväxt och för den droppe - av dagg, trodde man - som brukar glänsa i bladets grop. Daggdroppar har inspirerat flera poeter och alkemister genom tiderna. Inom kristendomen har den välgörande örten kallats "Vår frus mantel".
 
 "Kvinnans bästa vän" var ett smeknamn den fick för sin förmåga att ge menstruationen ett regelbundet förlopp, lindra klimakteriebesvär och bota infektioner i kvinnans underliv. Genom att regelbundet dricka ett te på daggkåpa skulle kvinnor engligt en tysk specialist slippa en tredjedel av alla underlivsoperationer.

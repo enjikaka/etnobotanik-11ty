@@ -9,8 +9,6 @@ imageCredit:
   - https://pxhere.com/sv/photo/1090680
 ---
 
-## Generellt
-
 Ett av de vanligaste träden i landet. I Sverige förekommer mestadels glasbjörk och vårtbjörk.
 
 ## Användning

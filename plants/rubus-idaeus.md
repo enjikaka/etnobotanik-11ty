@@ -9,8 +9,6 @@ tags:
 gbif: '2993094'
 ---
 
-## Generellt
-
 Ett av de mest omtyckte och populära bären i modern tid.
 
 ## Användning

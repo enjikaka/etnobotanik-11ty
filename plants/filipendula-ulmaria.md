@@ -9,8 +9,6 @@ thumbnail: /static/img/thumb-1x/filipendula-ulmaria.jpg
 gbif: '2987999'
 ---
 
-## Generellt
-
 Älggräs är en starkt doftande växt med gråvita blommor.
 
 ## Användning

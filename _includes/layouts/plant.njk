@@ -9,18 +9,17 @@ section: plants
       <h1>{{ title }}</h1>
       <small>{{ latinName }}</small>
     </div>
-    {% if latinName %}
-    <figure>
-      <img src="{{ latinName | thumbnailSrc }}" srcset="{{ latinName | thumbnailSrcset }}" sizes="144px" alt="Utvald bild på {{ title }}" />
-    </figure>
-    {% endif %}
   </header>
 
-  <img src="{{ latinName | floraVonDeutschlandSrc }}" srcset="{{ latinName | floraVonDeutschlandSrcset }}" width="507px" sizes="507px" alt="Översiktsbild på växtdelar av {{ title }}" />
+  {% if latinName %}
+  <figure class="thumbnail">
+    <img src="{{ latinName | thumbnailSrc }}" srcset="{{ latinName | thumbnailSrcset }}" sizes="144px" alt="Utvald bild på {{ title }}" />
+  </figure>
+  {% endif %}
 
   {{ layoutContent | safe }}
 
-  <img src="{{ latinName | nordensFloraSrc }}" alt="Översiktsbild på växtdelar av {{ title }}" />
+  <img src="{{ latinName | fitch }}" width="100%" alt="Illustration över växtdelar av {{ title }}" />
 
   <footer>
     <div class="tags">

@@ -13,8 +13,6 @@ imageCredit: [
 ]
 ---
 
-## Generellt
-
 Skvattram är en strakt doftande växt som blommar med vita blommor under juni och juli månad. Bladen är läderartade med nedvikt kant och står sig under vintern.
 
 ## Användning

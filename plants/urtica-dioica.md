@@ -9,8 +9,6 @@ tags:
   - soppa
 ---
 
-## Generellt
-
 Brännässlan är en allmän art som finns över hela Nordeuropa. Den kan också förekomma i andra delar av Europa. Brännässlan kan även förekomma i Asien, Nordafrika och Nordamerika.
 
 Brännässlan är en flerårig ört med hon- och hanblommor på skilda plantor under Juli - September. Brännässlan kan bli meterhög och har spetsigt ovala och tandade blad. Brännässlan växer i de flesta jordar och kan sås på våren. Rötter delas på hösten.

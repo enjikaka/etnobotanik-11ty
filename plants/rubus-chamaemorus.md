@@ -9,8 +9,6 @@ imageCredit: [
 ]
 ---
 
-## Generellt
-
 Hjortron är ett omtyckt bär i skogarna.
 
 ## Användning

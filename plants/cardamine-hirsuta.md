@@ -9,7 +9,6 @@ imageCredit: [
 ]
 ---
 
-## Generellt
 
 Bergbräsma är en ettårig luden kålväxt med krassesmak som blommar på våren.
 

@@ -8,7 +8,6 @@ tags:
   - saft
 gbif: '2882833'
 ---
-## Generellt
 
 Mellanbladen strödda, mycket kortskaftade, fint sågade, ljusgröna. Sommargrön dvärgbuske, upp till 40 cm hög, med gröna, kantiga, upprätta och kvistiga grenar. Blomningstid maj-juni. Frukter från mitten av juli.
 

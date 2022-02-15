@@ -13,8 +13,6 @@ tags:
   - åksjuka
 ---
 
-## Generellt
-
 I nordeuropeiska länder har kvanne med sin starka arom sedan gamla tider använts som universalmedicin. Det botaniska namnet anses härleda sig till örtens blomningstid, som enligt den förgregorianska kalendern inträffade kring Mikaeli. På den dagen skulle ärkeängeln Mikael dessutom ha uppenbarat sig för att prisa kvannens makt mot ondskan. Den fuktighetsälskande kvannen har sin hemort på sanka ängar och flodbäddar. De stora bladen förefaller tropiska och ger trädgården ett lummigt intryck.
 
 ## Användning

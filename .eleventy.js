@@ -31,6 +31,15 @@ module.exports = eleventyConfig => {
     return '/static/img/nordens-flora/' + path + '.jpg';
   });
 
+  eleventyConfig.addFilter('fitch', latinName => {
+    const path = latinName
+      .split(' ')
+      .map(s => s.toLocaleLowerCase())
+      .join('-');
+
+    return '/static/img/fitch/' + path + '.svg';
+  });
+
   eleventyConfig.addFilter('floraVonDeutschlandSrc', latinName => {
     const path = latinName
       .split(' ')
@@ -75,12 +84,12 @@ module.exports = eleventyConfig => {
   });
 
   // Minify CSS
-  eleventyConfig.addFilter("cssmin", function(code) {
+  eleventyConfig.addFilter("cssmin", function (code) {
     return new CleanCSS({}).minify(code).styles;
   });
 
   // Minify JS
-  eleventyConfig.addFilter("jsmin", function(code) {
+  eleventyConfig.addFilter("jsmin", function (code) {
     let minified = UglifyJS.minify(code);
     if (minified.error) {
       console.log("UglifyJS error: ", minified.error);
@@ -90,7 +99,7 @@ module.exports = eleventyConfig => {
   });
 
   // Minify HTML output
-  eleventyConfig.addTransform("htmlmin", function(content, outputPath) {
+  eleventyConfig.addTransform("htmlmin", function (content, outputPath) {
     if (outputPath.indexOf(".html") > -1) {
       let minified = htmlmin.minify(content, {
         useShortDoctype: true,
@@ -103,8 +112,8 @@ module.exports = eleventyConfig => {
   });
 
   // only content in the `posts/` directory
-  eleventyConfig.addCollection('posts', function(collection) {
-    return collection.getAllSorted().filter(function(item) {
+  eleventyConfig.addCollection('posts', function (collection) {
+    return collection.getAllSorted().filter(function (item) {
       return item.inputPath.match(/^\.\/posts\//) !== null;
     });
   });

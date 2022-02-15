@@ -3,8 +3,6 @@ title: Blåhallon
 latinName: Rubus caesius
 ---
 
-## Generellt
-
 ## Användning
 
 ## Odling

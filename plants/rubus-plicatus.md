@@ -12,8 +12,6 @@ imageCredit: [
 ]
 ---
 
-## Generellt
-
 Bladen är fingrade, mörkgröna på översidan, på undersidan kala eller småludna. De övervintrar ibland och är då gröna eller purpurröda. Björnbärsbusken är en sommargrön halvbuske med liggande, upprätta eller bågformigt böjda grenar. Blommor kommer på andraårsskotten. Blomningstid juni-augusti. Frukter i slutet av augusti.
 
 ## Användning

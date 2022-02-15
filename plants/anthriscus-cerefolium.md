@@ -13,8 +13,6 @@ tags:
   - snuva
 ---
 
-## Generellt
-
 Den blygsamma danska körveln har länge varit förbisedd, men med sin fina och säregna smak av persilja och ett stänk av myrra blir den nu alltmer omtyckt igen. Den tillhör de traditionella _fines herbes_, oumbärliga i det franska köket, och är en frisk grön tillgång på varje matbord. De fjäderlika bladen smakar mest om plantorna får växa i halvskugga. I månsken ger de lätta vita blommorna ett magiskt skimmer åt örtagården under försommar och höst. Odla flera tillsammans i en skir grupp.
 
 ## Användning

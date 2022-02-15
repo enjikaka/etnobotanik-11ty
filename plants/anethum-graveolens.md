@@ -8,8 +8,6 @@ tags:
   - sömnlöshet
 ---
 
-## Generellt
-
 För länge sedan använde egyptierna dill som lugnande medicin, och grekerna sade att dillen stillar hicka. På medeltiden ingick dill bland midsommarnattens örter mot häxeri, och vanligt folk gjorde sitt vin till kärleksdryck genom att tillsätta dill.
 
 ## Användning

@@ -7,13 +7,7 @@ tags:
   - tandvärk
   - menstruation
   - förkylning
-imageCredit: [
-  "https://pixabay.com/sv/achillea-millefolium-yarrow-white-1524795/",
-  "https://pixabay.com/sv/achillea-millefolium-yarrow-844587/"
-]
 ---
-
-## Generellt
 
 Rölleka skulle kunna beskrivas som växtrikes Jack Russell, eftersom den här lilla växten har så stor kraft. Ett enda ynka litet blad kan påskynda komposteringprocessen av ett helt kärrlast med komposteringsmaterial. Plantan i växande tillstånd håller närliggande plantor borta från sjukdom och lyfter också fram dessa plantors doft och smak. Avkok av plantan kan användas som gödsel.
 

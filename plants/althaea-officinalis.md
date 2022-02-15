@@ -11,8 +11,6 @@ tags:
   - halsont
 ---
 
-## Generellt
-
 Läkemalvans rot innehåller ett slem som tjocknar i vatten och som förr brukade upphettas med socker till en mild, lindrande pasta. Det är den som givit läkemalvan dess engelska namn, Marsh mallow, vilket fortfarande är namnet på en mjuk konfekt, känd även i Sverige. Numera tillverkas dock konfekten av andra ingredienser.
 
 Alla de över 1 000 växterna i familjen Malvaceae innehåller det helande slemmet. Althaea kommer från det grekiska ordet altho som betyder "bota". Från Kina fördes läkemalvan till Egypten och Syrien, där åt man den som grönsak. Den finns omnämnd av Pytagoras, Platon och Virgilius och avnjöts av romarna i korngrynssoppa och som fyllnad i helstekt spädgris.

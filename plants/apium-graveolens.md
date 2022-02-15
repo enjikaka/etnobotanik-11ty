@@ -10,8 +10,6 @@ tags:
   - urindrivande
 ---
 
-## Generellt
-
 En krona av vildselleri förärades segrarna i de nemeiska spelen till den grekiske överguden Zeus förhärligande. Därefter dödades den nemeiske kungens son av en orm, göm i sellerins blad, som även fick göra tjänst som begravningskrans. Grekerna använde örten medicinskt också, och romarna hade glädje av den i köket. Av stjälkarna gjordes puré med peppar, libbsticka, oregano, lök och vin. Spädgris fylldes med bladen jämte dadlar och pinjefrö. På 1800-talet använde sekten shakers i USA plantan till patentmedicin.
 
 ## Användning

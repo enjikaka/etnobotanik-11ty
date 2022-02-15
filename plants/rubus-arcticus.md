@@ -3,8 +3,6 @@ title: Åkerbär
 latinName: Rubus arcticus
 ---
 
-## Generellt
-
 ## Användning
 
 

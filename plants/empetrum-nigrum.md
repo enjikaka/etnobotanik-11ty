@@ -12,7 +12,6 @@ imageCredit: [
 ]
 ---
 
-## Generellt
 
 Barrlika blad. Svar bärlik stenfrukt.
 
