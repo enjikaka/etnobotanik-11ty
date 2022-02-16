@@ -112,6 +112,8 @@ pre {
 hr {
 	border-top: 0;
 	border-bottom: 5px double black;
+	margin-block: auto;
+	margin-top: 1em;
 }
 
 .app-header {
