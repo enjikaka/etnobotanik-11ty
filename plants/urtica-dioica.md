@@ -18,11 +18,14 @@ Brännässlan är mycket rik på vitaminer och mineraler.
 ## Användning
 
 När plantorna på våren är nästan nyuppkommna är ett bra tips att skörda dessa och låta de torka i ett mörk rum, varefter när de torkat du mala ned dem till pulver. Detta nässelpulver innehåller många vitaminer och mineraler och 1 tsk varje dag av detta ger dig ett bra kosttillskott.
+
 Avkok på brännässlan ger en urindrivande effekt och hjälper magen.
 
 Vårskotten kan efter sköljning blandas i sallad - de bränns inte i munnen! De kan även användas till att laga nässelsoppa eller bryggas till te.
 
-![](/static/img/urtica-dioica-2.jpg)
+Bladen kan även användas till nässelvatten för att gödsla dina plantor i grönsakslandet.
+
+{% image "./static/img/urtica-dioica-2.jpg", "Brännässla", "600px" %}
 
 ## Odling
 

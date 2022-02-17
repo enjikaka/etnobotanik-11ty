@@ -132,10 +132,6 @@ a {
 	opacity: 0.9;
 }
 
-img {
-	max-width: 100%;
-}
-
 article header {
 	position: relative;
 	text-align: center;
@@ -158,13 +154,6 @@ article header h1 {
 	border: 5px solid white;
 	box-shadow: 0 2px 8px rgba(0, 0, 0, 0.4);
 	float: right;
-}
-
-.thumbnail img {
-	width: 100%;
-	height: 100%;
-	display: block;
-	object-fit: cover;
 }
 
 .app-header nav {
@@ -223,81 +212,7 @@ button {
 	cursor: pointer;
 }
 
-.plants-list {
-	list-style: none;
-	padding: 0;
-}
-
-.plants-list li a {
-	padding: 0.5em 0;
-	display: flex;
-	flex-flow: row nowrap;
-	align-items: center;
-}
-
-.plants-list li:hover {
-	background-color: rgba(0, 0, 0, 0.02);
-}
-
-.plants-list figure {
-	margin: 0;
-	width: 64px;
-	height: 64px;
-	margin-right: 1rem;
-	overflow: hidden;
-	contain: strict;
-	border-radius: 6px;
-}
-
-.plants-list img {
-	width: 100%;
-	height: 100%;
-	object-fit: cover;
-	display: block;
-}
-
-.plants-list .text {
-	flex: 1;
-	display: flex;
-	flex-flow: column nowrap;
-	white-space: nowrap;
-	overflow: hidden;
-}
-
-.plants-list .text > span,
-.plants-list .text > small {
-	text-overflow: ellipsis;
-	overflow: hidden;
-}
-
-.tags {
-	margin: 2rem 1rem 1rem;
-}
-
-.tags ul {
-	list-style: none;
-	display: flex;
-	flex-flow: row wrap;
-	padding: 0;
-	margin: 0;
-	justify-content: center;
-}
-
-/* Post Tags */
-a[rel="tag"],
-a[rel="tag"]:visited {
-	display: block;
-  text-transform: uppercase;
-	letter-spacing: .1em;
-  font-size: .625em;
-  padding: .5em 1em;
-	background-color:rgba(255, 255, 255, 0.7);
-  border-radius: .25em;
-	text-decoration: none;
-	margin: 0.5em 1em;
-}
-
-a[rel="tag"]:hover {
-	background-color: hsl(41, 84%, 30%);
-	color: var(--white);
+picture img {
+	max-width: 100%;
+	height: auto;
 }

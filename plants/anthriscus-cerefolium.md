@@ -23,7 +23,7 @@ Gör avkok eller ansiktsmask av bladen för rengöring av hyn, för att mjuka up
 
 Som läkemedel kan körvelns blad ätas råa, de innehåller C-vitamin, karotin, järn och magnesium. Gör te på bladen som hjälper levern, blodomloppet, matsmältningen och kronisk snuva. Traditionellt dricks te av bladen på skärtorsdagen om sträkande medel efter fastan.
 
-![](/static/img/anthriscus-cerefolium-2.jpg)
+{% image "./static/img/anthriscus-cerefolium-2.jpg", "Dansk körvel", "600px" %}
 
 ## Odling
 

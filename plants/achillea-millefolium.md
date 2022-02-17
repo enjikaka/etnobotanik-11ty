@@ -25,7 +25,7 @@ OBS! Långvarig användning kan göra huden ömtålig för starkt ljus.
 
 De något bittra bladen kan finhackas och strös i sallad. Bladen har en kryddig smak och passar utmärkt i ost-dipsås.
 
-![](/static/img/achillea-millefolium-2.jpg)
+{% image "./static/img/achillea-millefolium-2.jpg", "Rölleka", "600px" %}
 
 ## Odling
 

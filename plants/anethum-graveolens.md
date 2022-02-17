@@ -18,7 +18,7 @@ Som skönhetsmedel kan avkok på krossat frö stärka nagelbanden. Tugga frön f
 
 Dillens frö används för sina mineralsalter i saltfria dieter. Drick dillvatten för matsmältningen, mot hicka, väderspänning, magkramp, kolik och sömnlöshet. Kan också användas som mjölkstimulerande medel för ammande mödrar. Använd 15 gram krossat frö till en tekopp kokande vatten för att göra dillvatten. Dosering är 1 msk till vuxna och 1 tsk till spädbarn.
 
-![](/static/img/anethum-graveolens-2.jpg)
+{% image "./static/img/anethum-graveolens-2.jpg", "Dill", "600px" %}
 
 ## Odling
 

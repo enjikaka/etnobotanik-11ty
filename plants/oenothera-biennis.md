@@ -17,7 +17,7 @@ Bladen och stjälken på Nattljus var förr omtyckt grönsak bland Nordamerikas 
 
 Te på blad och stjälk-skal hjälper till vid häftig hosta.
 
-![](/static/img/oenothera-biennis-2.jpg)
+{% image "./static/img/oenothera-biennis-2.jpg", "Nattljus", "600px" %}
 
 ## Odling
 

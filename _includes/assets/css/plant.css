@@ -1,0 +1,31 @@
+.tags {
+	margin: 2rem 1rem 1rem;
+}
+
+.tags ul {
+	list-style: none;
+	display: flex;
+	flex-flow: row wrap;
+	padding: 0;
+	margin: 0;
+	justify-content: center;
+}
+
+/* Post Tags */
+a[rel="tag"],
+a[rel="tag"]:visited {
+	display: block;
+  text-transform: uppercase;
+	letter-spacing: .1em;
+  font-size: .625em;
+  padding: .5em 1em;
+	background-color:rgba(255, 255, 255, 0.7);
+  border-radius: .25em;
+	text-decoration: none;
+	margin: 0.5em 1em;
+}
+
+a[rel="tag"]:hover {
+	background-color: hsl(41, 84%, 30%);
+	color: var(--white);
+}

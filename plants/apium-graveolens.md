@@ -18,7 +18,7 @@ Sellerins frön kan malas ned och användas till sellerisalt. Fröna är goda i 
 
 Som läkemedel är avkok på fröna lugnande, avslappnande, bra för njurarna och lättar väderspänning. Sellerins blad är rika på vitaminer, mineralsalter och annat nyttigt. Bladen anses innehålla insulinliknande hormon, vilket är bra för diabetiker. Te på bladen är aptitretande, bra för matsmältningen och mot kolik. Krossa stjäl och blad för att få ut urindrivande saft.
 
-![](/static/img/apium-graveolens-2.jpg)
+{% image "./static/img/apium-graveolens-2.jpg", "Vildselleri", "600px" %}
 
 ## Odling
 

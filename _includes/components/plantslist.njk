@@ -1,18 +1,14 @@
 <nav>
   <ul class="plants-list">
+  {% set css %}
+			{% include "assets/css/plants-list.css" %}
+  {% endset %}
+  <style>{{ css | cssmin | safe }}</style>
   {%- for plantPage in plantPages %}
     {%- if plantPage.data.latinName %}
       <li>
         <a href="{{ plantPage.url | url }}">
-          <figure>
-            <img
-              src="{{plantPage.data.latinName | thumbnailSrc}}"
-              srcset="{{ plantPage.data.latinName | thumbnailSrcset }}"
-              sizes="64px" alt="Bild på {{ plantPage.data.title }}"
-              decoding="async"
-              loading="lazy"
-            >
-          </figure>
+          {% image plantPage.data.latinName | thumbnailOriginalSrc, "Utvald bild för " + plantPage.data.title, "64px" %}
           <div class="text">
             <span>{{ plantPage.data.title }}</span>
             <small>{{ plantPage.data.latinName }}</small>

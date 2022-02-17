@@ -21,7 +21,7 @@ Kråkbär är fullproppade med antioxidanter. Innehåller mycket vatten och fibe
 
 Kråkbär är en bra törstsläckare.
 
-![](/static/img/empetrum-nigrum-2.jpg)
+{% image "./static/img/empetrum-nigrum-2.jpg", "Kråkbär", "600px" %}
 
 ## Odling
 

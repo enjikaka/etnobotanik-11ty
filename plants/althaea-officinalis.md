@@ -23,7 +23,7 @@ Vid hosta, diarré och sömnlöshet kan du dricka te gjort på läkemalvans rot.
 
 Använd bladavkok eller vätskan ur blötlagd rot, kall eller varm, för händerna, vid torrt hår, mot solbränna, till ansiktsmask och ångbad för hyn. Lägg indränkta kompresser för slätare hy kring ögonen.
 
-![](/static/img/althaea-officinalis-2.jpg)
+{% image "./static/img/althaea-officinalis-2.jpg", "Läkemalva", "600px" %}
 
 ## Odling
 

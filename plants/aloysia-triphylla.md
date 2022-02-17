@@ -12,7 +12,7 @@ tags:
 
 Citronverbenans omedelbara lockelse ligger i bladen som har en ren och skarp citrondoft som ger en angenäm överraskning vid varje beröring. Örten härstammar från Sydamerika och dess myter och historia är föga kända utanför de indianska kulturerna. På 1500-talet medförde spanjorerna växten till sitt hemland där den odlades för sin doftstarka olja. Citronverbenan odlas som ettårig i Sverige men ge inte upp hoppet, tidigt på hösten kan nya blad komma fram, senare än man skulle kunna tro.
 
-![](/static/img/aloysia-triphylla-2.jpg)
+{% image "./static/img/aloysia-triphylla-2.jpg", "Citronverbena", "600px" %}
 
 ## Användning
 

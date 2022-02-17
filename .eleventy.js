@@ -2,8 +2,31 @@ const CleanCSS = require('clean-css');
 const UglifyJS = require('uglify-es');
 const htmlmin = require('html-minifier');
 const eleventyNavigationPlugin = require('@11ty/eleventy-navigation');
+const Image = require("@11ty/eleventy-img");
+
+async function imageShortcode(src, alt, sizes) {
+  const size = parseInt(sizes, 10);
+  let metadata = await Image(src, {
+    widths: [size, size * 1.5, size * 2],
+    formats: ["avif", "webp"],
+    outputDir: './_site/img',
+    useCache: true
+  });
+
+  let imageAttributes = {
+    alt,
+    sizes,
+    loading: "lazy",
+    decoding: "async",
+  };
+
+  // You bet we throw an error on missing alt in `imageAttributes` (alt="" works okay)
+  return Image.generateHTML(metadata, imageAttributes);
+}
 
 module.exports = eleventyConfig => {
+  eleventyConfig.addNunjucksAsyncShortcode("image", imageShortcode);
+  eleventyConfig.addLiquidShortcode("image", imageShortcode);
 
   // Eleventy Navigation https://www.11ty.dev/docs/plugins/navigation/
   eleventyConfig.addPlugin(eleventyNavigationPlugin);
@@ -62,13 +85,22 @@ module.exports = eleventyConfig => {
     );
   });
 
+  eleventyConfig.addFilter('thumbnailOriginalSrc', latinName => {
+    const path = latinName
+      .split(' ')
+      .map(s => s.toLocaleLowerCase())
+      .join('-');
+
+    return './static/img/thumb/' + path + '.jpg';
+  });
+
   eleventyConfig.addFilter('thumbnailSrc', latinName => {
     const path = latinName
       .split(' ')
       .map(s => s.toLocaleLowerCase())
       .join('-');
 
-    return '/static/img/thumb-1x/' + path + '.jpg';
+    return '/static/img/thumb-64/' + path + '.jpg';
   });
 
   eleventyConfig.addFilter('thumbnailSrcset', latinName => {
@@ -84,9 +116,7 @@ module.exports = eleventyConfig => {
   });
 
   // Minify CSS
-  eleventyConfig.addFilter("cssmin", function (code) {
-    return new CleanCSS({}).minify(code).styles;
-  });
+  eleventyConfig.addFilter("cssmin", code => new CleanCSS({}).minify(code).styles);
 
   // Minify JS
   eleventyConfig.addFilter("jsmin", function (code) {
@@ -141,9 +171,11 @@ module.exports = eleventyConfig => {
     permalink: false
   };
 
+  /*
   eleventyConfig.setLibrary("md", markdownIt(options)
     .use(markdownItAnchor, opts)
   );
+  */
 
   return {
     templateFormats: ["md", "njk", "html", "liquid"],

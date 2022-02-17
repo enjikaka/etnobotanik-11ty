@@ -2,6 +2,10 @@
 <html {% if section %} data-current="{{ section }}"{% endif %} lang="en">
 	<head>
 		{% include "components/head.njk" %}
+		{% set css %}
+			{% include "assets/css/inline.css" %}
+		{% endset %}
+		<style>{{ css | cssmin | safe }}</style>
 	</head>
 	<body>
 		{% include "components/baseBody.njk" %}

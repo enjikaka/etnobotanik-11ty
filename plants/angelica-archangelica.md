@@ -23,7 +23,7 @@ Med kvannens frön kan du parfymera rummet genom att bränna dessa i en stekpann
 
 Som läkemedel kan man göra te på kvannens färska eller torkade blad, detta te är bra mot hosta, snuva och väderspänning. Krossade blad gör luften frisk i bilen och minskar risken för åksjuka.
 
-![](/static/img/angelica-archangelica-2.jpg)
+{% image "./static/img/angelica-archangelica-2.jpg", "Kvanne", "600px" %}
 
 ## Odling
 

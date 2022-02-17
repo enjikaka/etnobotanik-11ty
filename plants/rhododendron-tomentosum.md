@@ -29,7 +29,7 @@ Skvattram ska vara en populär berusningsväxt bland Sibiriens olika folk - där
 
 Som afrodisiakum skall växten också kunna användas. Experiment från professon Hugo Schultz utförde på 1900-talet visade på att skvattram gav "mycket besvärliga, häftiga och långvariga erektioner" och försäkt menstruation hos kvinnor. "Fantastiska och erotiskt färgade drömmar störde nattron, och riklig nattsvett uppträdde upprepade gånger."
 
-![](/static/img/rhododendron-tomentosum-2.jpg)
+{% image "./static/img/rhododendron-tomentosum-2.jpg", "Skvattram", "600px" %}
 
 ## Odling
 

@@ -3,6 +3,11 @@
 	<head>
 		{% include "components/head.njk" %}
 		{% include "components/plantHead.njk" %}
+		{% set css %}
+			{% include "assets/css/inline.css" %}
+			{% include "assets/css/plant.css" %}
+		{% endset %}
+		<style>{{ css | cssmin | safe }}</style>
 	</head>
 	<body>
 		{% include "components/baseBody.njk" %}

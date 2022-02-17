@@ -25,7 +25,7 @@ Kompress med avkok på daggkåpans blad kan användas för sårläkning, mot inf
 
 Daggkåpans unda och milda blad kan delas och blandas i sallad.
 
-![](/static/img/alchemilla-vulgaris-2.jpg)
+{% image "./static/img/alchemilla-vulgaris-2.jpg", "Daggkåpa", "600px" %}
 
 ## Odling
 
