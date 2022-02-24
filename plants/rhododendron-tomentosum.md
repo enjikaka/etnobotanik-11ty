@@ -45,4 +45,4 @@ Latinska namnet var tidigare _Ledum palustre_. Lokala namn på växten är bockh
 
 På finska heter växten Suopursu och på norska kallas den Finnmarkspors.
 
-[Se programmet Blomsterspråks avsnitt om Skvattram i Öppet arkiv från SVT](https://www.oppetarkiv.se/video/1141662/blomstersprak)
+[Se programmet Blomsterspråks avsnitt om Skvattram i Öppet arkiv från SVT](https://www.svtplay.se/video/28683114/blomstersprak-oppet-arkiv/blomstersprak-sasong-1-avsnitt-4)
