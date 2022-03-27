@@ -5,7 +5,8 @@
 
 .plants-list li {
   contain: strict;
-  contain-intrinsic-height: 80px;
+  contain-intrinsic-size: 100% 80px;
+  height: 80px;
 }
 
 .plants-list li a {
@@ -21,8 +22,8 @@
 
 .plants-list picture {
 	display: block;
-  contain: strict;
-  contain-intrinsic-size: 64px 64px;
+	contain: strict;
+	contain-intrinsic-size: 64px 64px;
 	margin: 0;
 	width: 64px;
 	height: 64px;
