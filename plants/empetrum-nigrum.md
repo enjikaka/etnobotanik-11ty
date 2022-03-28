@@ -13,15 +13,15 @@ imageCredit: [
 ---
 
 
-Barrlika blad. Svar bärlik stenfrukt.
+Kråkbär är ett ris med barrlika blad som är städsegröna. Riset får svarta bärlika frukter.
 
 ## Användning
 
-Kråkbär är fullproppade med antioxidanter. Innehåller mycket vatten och fiber. Har låg sockerhalt. Te på omogna frukter har används inom folkmedicinen som urindrivande medel.
-
-Kråkbär är en bra törstsläckare.
+Kråkbär är fullproppade med antioxidanter. Innehåller mycket vatten och fiber. Har låg sockerhalt. Te på omogna frukter har används inom folkmedicinen som urindrivande medel. Bären är en bra törstsläckare.
 
 {% image "./static/img/empetrum-nigrum-2.jpg", "Kråkbär", "600px" %}
+
+Bären har förr används som föda under nödår. Riset har varit vanligt material i kvastar och mattor.
 
 ## Odling
 
