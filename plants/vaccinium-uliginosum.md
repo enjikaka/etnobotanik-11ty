@@ -2,7 +2,8 @@
 title: Odon
 latinName: Vaccinium uliginosum
 thumbnail: /static/img/thumb-1x/vaccinium-uliginosum.jpg
-thumbnail_attribution: 'https://commons.wikimedia.org/wiki/File:Vaccinium_uliginosum_fruit.jpg'
+imageCredit:
+  - https://commons.wikimedia.org/wiki/File:Vaccinium_uliginosum_fruit.jpg
 tags:
   - bär
   - GPT4
