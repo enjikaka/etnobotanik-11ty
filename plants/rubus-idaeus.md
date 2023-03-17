@@ -6,6 +6,7 @@ tags:
   - bär
   - saft
   - sylt
+  - GPT4
 gbif: '2993094'
 ---
 

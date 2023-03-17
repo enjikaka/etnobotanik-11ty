@@ -5,6 +5,7 @@ tags:
   - bär
   - saft
   - sylt
+  - GPT4
 gbif: 8436459
 imageCredit: [
   "https://commons.wikimedia.org/wiki/File:Rubus_plicatus_fruit_kz1.jpg",
