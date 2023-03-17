@@ -1,6 +1,9 @@
 ---
 title: Åkerbär
 latinName: Rubus arcticus
+tags:
+  - bär
+  - GPT4
 ---
 
 Åkerbär, eller Rubus arcticus som den vetenskapligt benämns, är en perenn ört som tillhör familjen rosväxter. Denna växt är känd för sina röda, söta och smakrika bär som erbjuder en speciell upplevelse för den nyfikna finsmakaren. Åkerbärsplantan växer naturligt i skogar, kärr och på öppna marker i norra Europa, inklusive Sverige.

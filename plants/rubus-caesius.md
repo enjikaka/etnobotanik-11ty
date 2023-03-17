@@ -4,6 +4,9 @@ latinName: Rubus caesius
 imageCredit: [
   "https://commons.wikimedia.org/wiki/File:Rubus_caesius_fruit_-_Keila.jpg"
 ]
+tags:
+  - bär
+  - GPT4
 ---
 
 Blåhallon, eller Rubus caesius som den vetenskapligt benämns, är en perenn ört som tillhör familjen rosväxter. Denna växt är känd för sina blåaktiga, smakrika bär som erbjuder en annorlunda upplevelse för finsmakaren. Blåhallonbusken växer naturligt i skogar, hedar och på öppna marker i Europa, inklusive Sverige.

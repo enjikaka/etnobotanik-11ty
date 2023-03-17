@@ -5,6 +5,7 @@ plant_length: 50-100
 tags:
   - saft
   - huvudvärk
+  - GPT4
 thumbnail: /static/img/thumb-1x/filipendula-ulmaria.jpg
 gbif: '2987999'
 ---
