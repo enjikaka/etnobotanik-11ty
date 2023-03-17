@@ -4,6 +4,7 @@ latinName: Blitum bonus-henricus
 tags:
   - sallad
   - medicin
+  - perenn grönsak
   - GPT4
 imageCredit:
   - https://commons.wikimedia.org/wiki/File:Blitum_bonus-henricus_kz19.jpg
