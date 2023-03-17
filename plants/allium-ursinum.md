@@ -5,6 +5,8 @@ tags:
   - krydda
   - GPT4
 thumbnail: /static/img/thumb-1x/allium-ursinum.jpg
+imageCredit:
+  - https://commons.wikimedia.org/wiki/File:B%C3%A4rlauch_(Allium_ursinum)_of_Southern_Heath_01.jpg
 ---
 
 Ramslök, eller Allium ursinum som den vetenskapligt benämns, är en perenn ört som tillhör familjen lökväxter. Denna växt är känd för sina smakrika blad och blommor, som liknar vitlök i smak och doft, och som används som en populär ingrediens i matlagning. Ramslök växer naturligt i skogar, hagar och vid vatten i stora delar av Europa, inklusive Sverige.
