@@ -8,6 +8,7 @@
   },
   "scripts": {
     "build": "npx eleventy",
+    "test": "echo test",
     "serve": "npx eleventy --serve",
     "watch": "npx eleventy --watch",
     "debug": "DEBUG=* npx eleventy"
