@@ -6,7 +6,6 @@ tags:
   - saft
   - huvudvärk
   - GPT4
-thumbnail: /static/img/thumb-1x/filipendula-ulmaria.jpg
 gbif: '2987999'
 ---
 

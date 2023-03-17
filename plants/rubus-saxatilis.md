@@ -4,7 +4,6 @@ latinName: Rubus saxatilis
 tags:
   - bär
   - GPT4
-thumbnail: /static/img/thumb-1x/rubus-saxatilis.jpg
 imageCredit:
   - 'https://commons.wikimedia.org/wiki/File:Rubus_saxatilis02_cropped.jpg'
 gbif: '2992808'

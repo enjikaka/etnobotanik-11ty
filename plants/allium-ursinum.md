@@ -4,7 +4,6 @@ latinName: Allium ursinum
 tags:
   - krydda
   - GPT4
-thumbnail: /static/img/thumb-1x/allium-ursinum.jpg
 imageCredit:
   - https://commons.wikimedia.org/wiki/File:B%C3%A4rlauch_(Allium_ursinum)_of_Southern_Heath_01.jpg
 ---
