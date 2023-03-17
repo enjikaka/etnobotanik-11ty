@@ -5,6 +5,8 @@ tags:
   - sallad
   - medicin
   - GPT4
+imageCredit:
+  - https://commons.wikimedia.org/wiki/File:Blitum_bonus-henricus_kz19.jpg
 ---
 
 Lungrot, eller Blitum bonus-henricus som den vetenskapligt benämns, är en perenn ört som tillhör familjen amarantväxter. Denna växt är känd för sina ätliga blad och stjälkar, vilka kan användas som en näringsrik och smakrik ingrediens i matlagning. Lungrot växer naturligt på näringsrik och fuktig mark, som gräsmarker, åkrar och trädgårdar i stora delar av Europa, inklusive Sverige.
