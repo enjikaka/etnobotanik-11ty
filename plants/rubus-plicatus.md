@@ -13,14 +13,24 @@ imageCredit: [
 ]
 ---
 
-Bladen är fingrade, mörkgröna på översidan, på undersidan kala eller småludna. De övervintrar ibland och är då gröna eller purpurröda. Björnbärsbusken är en sommargrön halvbuske med liggande, upprätta eller bågformigt böjda grenar. Blommor kommer på andraårsskotten. Blomningstid juni-augusti. Frukter i slutet av augusti.
+Björnbär, eller Rubus plicatus som den vetenskapligt benämns, är en perenn ört som tillhör familjen rosväxter. Denna växt är populär för sina mörka, saftiga bär som används i många maträtter och drycker. Björnbärsbusken är vanligt förekommande i skogar, hedar och på öppna marker i Europa, inklusive Sverige.
 
-<h2>Användning</h2>
+## Beskrivning
+
+Björnbärsbusken är en buskig, kraftigt växande och taggig växt med bågböjda stammar som kan bli upp till 3 meter långa. Bladen är sammansatta av tre till fem småblad, mörkgröna på ovansidan och ljusare på undersidan. Busken blommar från juni till augusti, med vita eller ljusrosa blommor som växer i klase.
+
+Bären mognar från augusti till oktober och är i början röda, men blir nästan svarta när de är fullmogna. Björnbär är kända för sin söta och syrliga smak, vilket gör dem populära som ingrediens i matlagning och som snacks i naturen.
+
+## Användning
 
 {% image "./static/img/rubus-plicatus-2.jpg", "Björnbär", "600px" %}
 
-Bären kan användas till saft, sylt och dylikt. Fullmogna smakar de utomordentligt sött och aromatiskt.
+Björnbär används ofta i köket för att göra sylt, saft, gelé, pajer och desserter. De kan även användas i vinframställning och som smaksättare i olika alkoholhaltiga drycker. Bären är rika på antioxidanter, C-vitamin och kostfiber, vilket gör dem till ett nyttigt tillskott i kosten.
 
-<h2>Odling</h2>
+## Historik och folktro
 
-Växer på stränder, skogsbackar och stenrösen. Blommar i juni-augusti med vita eller ljusröda blommor. Växer i södra och mellersta Sverige, mest längst kusten.
+Förutom deras användning i matlagning, har björnbär en lång historia som medicinalväxt. Bladen och rotsystemet har använts i traditionell medicin för att behandla olika åkommor, såsom inflammationer, diarré och sår. Enligt vissa gamla traditioner ansågs det även att björnbär kunde skydda mot onda andar och olycka.
+
+# Odling och skötsel
+
+Björnbär trivs bäst på en plats med mycket sol eller halvskugga, i närheten av andra träd och buskar. De föredrar väldränerad, näringsrik jord med en blandning av sand, humus och lera. För att få en god skörd av bär bör man beskära busken regelbundet och gallra bort gamla, döda grenar.
