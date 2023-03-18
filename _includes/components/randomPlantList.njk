@@ -1,0 +1,22 @@
+<nav>
+  <ul class="plants-list">
+  {% set css %}
+    {% include "assets/css/plants-list.css" %}
+  {% endset %}
+  <style>{{ css | cssmin | safe }}</style>
+  {%- set pagesToRender = collections.plants | randomCount(10) %}
+  {%- for plantPage in pagesToRender %}
+    {%- if plantPage.data.latinName %}
+      <li>
+        <a href="{{ plantPage.url | url }}">
+          {% image plantPage.data.latinName | thumbnailOriginalSrc, "Utvald bild för " + plantPage.data.title, "64px" %}
+          <div class="text">
+            <strong>{{ plantPage.data.title }}</strong>
+            <small>{{ plantPage.data.latinName }}</small>
+          </div>
+        </a>
+      </li>
+    {%- endif %}
+  {%- endfor %}
+  </ul>
+</nav>
