@@ -1,31 +1,30 @@
 {
-  "name": "etnobotanik-11ty",
-  "version": "1.0.4",
-  "description": "11ty with Netlify CMS",
-  "engines": {
-    "node": "^13",
-    "npm": "^6"
-  },
-  "scripts": {
-    "build": "npx eleventy",
-    "test": "echo test",
-    "serve": "npx eleventy --serve",
-    "watch": "npx eleventy --watch",
-    "debug": "DEBUG=* npx eleventy"
-  },
-  "license": "MIT",
-  "devDependencies": {
-    "@11ty/eleventy": "^2.0.0",
-    "@11ty/eleventy-img": "^3.0.0",
-    "eslint": "^6.8.0",
-    "eslint-config-tidal": "^1.2.0",
-    "markdown-it": "^12.3.2",
-    "markdown-it-anchor": "^8.4.1"
-  },
-  "dependencies": {
-    "@11ty/eleventy-navigation": "^0.3.5",
-    "clean-css": "^4.2.1",
-    "html-minifier": "^4.0.0",
-    "uglify-es": "^3.3.9"
-  }
+    "name": "etnobotanik-11ty",
+    "version": "1.0.4",
+    "description": "11ty with Netlify CMS",
+    "engines": {
+        "node": "^18"
+    },
+    "scripts": {
+        "build": "npx eleventy",
+        "test": "echo test",
+        "serve": "npx eleventy --serve",
+        "watch": "npx eleventy --watch",
+        "debug": "DEBUG=* npx eleventy"
+    },
+    "license": "MIT",
+    "devDependencies": {
+        "@11ty/eleventy": "^2.0.0",
+        "@11ty/eleventy-img": "^3.0.0",
+        "eslint": "^6.8.0",
+        "eslint-config-tidal": "^1.2.0",
+        "markdown-it": "^12.3.2",
+        "markdown-it-anchor": "^8.4.1"
+    },
+    "dependencies": {
+        "@11ty/eleventy-navigation": "^0.3.5",
+        "clean-css": "^4.2.1",
+        "html-minifier": "^4.0.0",
+        "uglify-es": "^3.3.9"
+    }
 }
