@@ -104,9 +104,6 @@ pre {
 
 .app-footer,
 .app-header {
-	background-color: black;
-	background-image: linear-gradient(rgba(136,90,62,0.5), rgba(96,48,19,0.5) 70%), url(/static/img/dark-paper-2.svg);
-	color: #EFD799;
 	height: 50px;
 	width: 100vw;
 	box-sizing: border-box;
@@ -114,7 +111,6 @@ pre {
 	flex-flow: row nowrap;
 	align-items: center;
 	padding: 0 1.2rem;
-	letter-spacing: 0.8px;
 	box-sizing: border-box;
 	flex-shrink: 0;
 	contain: strict;
@@ -128,9 +124,6 @@ hr {
 }
 
 .app-header {
-	position: sticky;
-	top: 0;
-	z-index: 1;
 	border-bottom: 1px solid black;
 }
 
