@@ -6,8 +6,16 @@
   "name": "{{ title }}"
 }
 </script>
+
+<title>{{ title }}</title>
+<meta property="description" content="{{ excerpt post }}">
+
 <meta property="og:title" content="{{ title }}">
 <meta property="og:description" content="{{ latinName }}">
-<meta property="og:image" content="{{ latinName | thumbnailOriginalSrc }}">
+<meta property="og:image" content="{{ latinName | thumbnailSrc }}">
 <meta property="og:url" content="{{ page.url }}">
+
 <meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{{ title }}">
+<meta name="twitter:description" content="{{ latinName }}">
+<meta name="twitter:image" content="{{ latinName | thumbnailSrc }}">
