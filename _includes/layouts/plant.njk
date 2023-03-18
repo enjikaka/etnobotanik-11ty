@@ -42,8 +42,8 @@ section: plants
 </article>
 
 {% if imageCredit %}
-  <article class="image-credits">
+  <section class="image-credits">
     Tillskrivningar:<br>
     {{ imageCredit | generateCreditLinks | safe }}
-  </article>
+  </section>
 {% endif %}
