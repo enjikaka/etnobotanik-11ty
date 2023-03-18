@@ -42,7 +42,7 @@
 	overflow: hidden;
 }
 
-.plants-list .text > span,
+.plants-list .text > strong,
 .plants-list .text > small {
 	text-overflow: ellipsis;
 	overflow: hidden;

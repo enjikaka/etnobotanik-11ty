@@ -55,10 +55,6 @@ article {
 	contain: none;
 }
 
-article a {
-	color: hsl(41, 84%, 30%);
-}
-
 article p {
 	hyphens: auto;
 	text-align: justify;

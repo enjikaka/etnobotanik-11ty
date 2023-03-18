@@ -10,7 +10,7 @@
         <a href="{{ plantPage.url | url }}">
           {% image plantPage.data.latinName | thumbnailOriginalSrc, "Utvald bild för " + plantPage.data.title, "64px" %}
           <div class="text">
-            <span>{{ plantPage.data.title }}</span>
+            <strong>{{ plantPage.data.title }}</strong>
             <small>{{ plantPage.data.latinName }}</small>
           </div>
         </a>
