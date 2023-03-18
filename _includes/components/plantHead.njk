@@ -1,7 +1,7 @@
 <script type="application/ld+json">
 {
   "@type": "Product",
-  "image": "{{ latinName | thumbnailSrc }}",
+  "image": "{{ latinName | thumbnailSrc256 }}",
   "url": "{{ page.url }}",
   "name": "{{ title }}"
 }
@@ -12,10 +12,10 @@
 
 <meta property="og:title" content="{{ title }}">
 <meta property="og:description" content="{{ latinName }}">
-<meta property="og:image" content="{{ latinName | thumbnailSrc }}">
+<meta property="og:image" content="{{ latinName | thumbnailSrc256 }}">
 <meta property="og:url" content="{{ page.url }}">
 
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="{{ title }}">
 <meta name="twitter:description" content="{{ latinName }}">
-<meta name="twitter:image" content="{{ latinName | thumbnailSrc }}">
+<meta name="twitter:image" content="{{ latinName | thumbnailSrc256 }}">

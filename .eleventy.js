@@ -103,6 +103,15 @@ module.exports = eleventyConfig => {
     return '/static/img/thumb-64/' + path + '.jpg';
   });
 
+  eleventyConfig.addFilter('thumbnailSrc256', latinName => {
+    const path = latinName
+      .split(' ')
+      .map(s => s.toLocaleLowerCase())
+      .join('-');
+
+    return '/static/img/thumb-256/' + path + '.jpg';
+  });
+
   eleventyConfig.addFilter('thumbnailSrcset', latinName => {
     const widths = [64, 128, 256];
     const path = latinName
