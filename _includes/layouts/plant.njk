@@ -15,7 +15,6 @@ section: plants
   <figure class="thumbnail">
     {% set thumbnailImageSrc = latinName | thumbnailOriginalSrc %}
     {% image thumbnailImageSrc, "Utvald bild för " + title, "128px" %}
-    <!--<img src="{{ latinName | thumbnailSrc }}" srcset="{{ latinName | thumbnailSrcset }}" sizes="144px" alt="Utvald bild på {{ title }}" />-->
   </figure>
   {% endif %}
 

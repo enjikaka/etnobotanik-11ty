@@ -85,43 +85,28 @@ module.exports = eleventyConfig => {
     );
   });
 
-  eleventyConfig.addFilter('thumbnailOriginalSrc', latinName => {
+  const thumbnailOriginalSrc = latinName => {
     const path = latinName
       .split(' ')
       .map(s => s.toLocaleLowerCase())
       .join('-');
 
     return './static/img/thumb/' + path + '.jpg';
-  });
+  };
 
-  eleventyConfig.addFilter('thumbnailSrc', latinName => {
-    const path = latinName
-      .split(' ')
-      .map(s => s.toLocaleLowerCase())
-      .join('-');
+  eleventyConfig.addFilter('thumbnailOriginalSrc', thumbnailOriginalSrc);
 
-    return '/static/img/thumb-64/' + path + '.jpg';
-  });
+  eleventyConfig.addFilter('thumbnail256', latinName => {
+    const src = thumbnailOriginalSrc(latinName);
 
-  eleventyConfig.addFilter('thumbnailSrc256', latinName => {
-    const path = latinName
-      .split(' ')
-      .map(s => s.toLocaleLowerCase())
-      .join('-');
+    const metadata = await Image(src, {
+      widths: [256],
+      formats: ["jpg"],
+      outputDir: './_site/img',
+      useCache: true
+    });
 
-    return '/static/img/thumb-256/' + path + '.jpg';
-  });
-
-  eleventyConfig.addFilter('thumbnailSrcset', latinName => {
-    const widths = [64, 128, 256];
-    const path = latinName
-      .split(' ')
-      .map(s => s.toLocaleLowerCase())
-      .join('-');
-
-    return widths.map(
-      width => `/static/img/thumb-${width}/${path}.jpg ${width}w`
-    );
+    return metadata['jpeg'][0].url;
   });
 
   // Minify CSS
