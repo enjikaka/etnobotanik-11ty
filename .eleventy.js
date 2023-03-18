@@ -25,13 +25,21 @@ async function imageShortcode(src, alt, sizes) {
 }
 
 module.exports = eleventyConfig => {
-  eleventyConfig.addNunjucksAsyncShortcode("image", imageShortcode);
-  eleventyConfig.addLiquidShortcode("image", imageShortcode);
+  eleventyConfig.addShortcode("image", imageShortcode);
 
   // Eleventy Navigation https://www.11ty.dev/docs/plugins/navigation/
   eleventyConfig.addPlugin(eleventyNavigationPlugin);
 
   eleventyConfig.addLayoutAlias("post", "layouts/post.njk");
+
+  eleventyConfig.addFilter("startsWith", (text, seq) => text?.startsWith(seq));
+  eleventyConfig.addFilter("hasPlantPagesWithLetter", (plantPages, letter) => {
+    return plantPages.filter(pp => pp.data.latinName?.startsWith(letter)).length > 0;
+  });
+
+  eleventyConfig.addFilter("plantPagesLatinLetterSort", (plantPages, letter) => {
+    return plantPages.filter(pp => pp.data.latinName?.startsWith(letter));
+  });
 
   eleventyConfig.addFilter('generateTagLinks', tags => {
     return '<ul>' + tags.filter(t => t !== 'plant').map(tag => `

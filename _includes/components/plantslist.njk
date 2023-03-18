@@ -4,6 +4,29 @@
 			{% include "assets/css/plants-list.css" %}
   {% endset %}
   <style>{{ css | cssmin | safe }}</style>
+  {% set alphabet = ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O", "P", "Q", "R", "S", "T", "U", "V", "W", "X", "Y", "Z"] %}
+  {%- for letter in alphabet %}
+    {%- if plantPages | hasPlantPagesWithLetter(letter) %}
+    <section>
+        <header>
+            <h2>{{ letter }}</h2>
+        </header>
+        {%- set pagesToRender = plantPages | plantPagesLatinLetterSort(letter) %}
+        {%- for plantPage in pagesToRender %}
+            <li>
+                <a href="{{ plantPage.url | url }}">
+                {% image plantPage.data.latinName | thumbnailOriginalSrc, "Utvald bild för " + plantPage.data.title, "64px" %}
+                <div class="text">
+                    <strong>{{ plantPage.data.title }}</strong>
+                    <small>{{ plantPage.data.latinName }}</small>
+                </div>
+                </a>
+            </li>
+        {%- endfor %}
+    </section>
+    {%- endif %}
+  {%- endfor %}
+  <!--
   {%- for plantPage in plantPages %}
     {%- if plantPage.data.latinName %}
       <li>
@@ -17,5 +40,6 @@
       </li>
     {%- endif %}
   {%- endfor %}
+  -->
   </ul>
 </nav>
