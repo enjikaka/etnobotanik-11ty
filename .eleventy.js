@@ -96,7 +96,7 @@ module.exports = eleventyConfig => {
 
   eleventyConfig.addFilter('thumbnailOriginalSrc', thumbnailOriginalSrc);
 
-  eleventyConfig.addFilter('thumbnail256', async latinName => {
+  eleventyConfig.addAsyncFilter('thumbnail256', async latinName => {
     const src = thumbnailOriginalSrc(latinName);
 
     const metadata = await Image(src, {
