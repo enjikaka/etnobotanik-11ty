@@ -60,38 +60,6 @@ article p {
 	text-align: justify;
 }
 
-article p:first-of-type {
-	font-size: 1.1em;
-	font-weight: 400;
-	margin-bottom: 2em;
-}
-
-article header + p:first-of-type:first-letter {
-  float: left;
-  font-size: calc(var(--gr) * 2);
-  line-height: calc(var(--gr) / 2);
-  padding-top: 4px;
-  padding-right: 8px;
-  padding-left: 3px;
-}
-
-pre {
-	font-size: 14px;
-	direction: ltr;
-	text-align: left;
-	white-space: pre;
-	word-spacing: normal;
-	word-break: normal;
-	-moz-tab-size: 2;
-	tab-size: 2;
-	-webkit-hyphens: none;
-	-moz-hyphens: none;
-	-ms-hyphens: none;
-	hyphens: none;
-	padding: 1em;
-	margin: .5em 0;
-}
-
 /* Header Logo (style as h2) */
 .app-header > em {
 	font-weight: bold;
