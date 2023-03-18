@@ -1,6 +1,7 @@
 ---
 title: Lungrot
 latinName: Blitum bonus-henricus
+date: git Last Modified
 tags:
   - sallad
   - medicin

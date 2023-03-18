@@ -1,6 +1,7 @@
 ---
 title: Strandbeta
 latinName: Beta vulgaris subsp. maritima
+date: git Last Modified
 tags:
   - sallad
   - perenn grönsak

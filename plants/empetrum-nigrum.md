@@ -1,6 +1,7 @@
 ---
 title: Kråkbär
 latinName: Empetrum nigrum
+date: git Last Modified
 tags:
   - bär
   - fiber

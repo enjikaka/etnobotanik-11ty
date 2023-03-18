@@ -1,6 +1,7 @@
 ---
 title: Jordärtskocka
 latinName: Helianthus tuberosus
+date: git Last Modified
 tags:
   - perenn grönsak
   - GPT4

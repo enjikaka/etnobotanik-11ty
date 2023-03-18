@@ -1,6 +1,7 @@
 ---
-title: "Citronverbena"
-latinName: "Aloysia triphylla"
+title: Citronverbena
+latinName: Aloysia triphylla
+date: git Last Modified
 tags:
   - te
   - konfekt

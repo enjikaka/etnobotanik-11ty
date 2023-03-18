@@ -1,6 +1,7 @@
 ---
 title: Blåbär
 latinName: Vaccinium myrtillus
+date: git Last Modified
 tags:
   - bär
   - sylt

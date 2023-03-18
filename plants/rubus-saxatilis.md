@@ -1,6 +1,7 @@
 ---
 title: Stenbär
 latinName: Rubus saxatilis
+date: git Last Modified
 tags:
   - bär
   - GPT4

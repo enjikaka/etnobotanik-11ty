@@ -1,6 +1,7 @@
 ---
 title: Björk
 latinName: Betula
+date: git Last Modified
 tags:
   - tvål
   - sallad

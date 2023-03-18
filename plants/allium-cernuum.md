@@ -1,6 +1,7 @@
 ---
 title: Prärielök
 latinName: Allium cernuum
+date: git Last Modified
 tags:
   - krydda
   - GPT4

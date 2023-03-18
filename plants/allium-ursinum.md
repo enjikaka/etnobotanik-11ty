@@ -1,6 +1,7 @@
 ---
 title: Ramslök
 latinName: Allium ursinum
+date: git Last Modified
 tags:
   - krydda
   - GPT4

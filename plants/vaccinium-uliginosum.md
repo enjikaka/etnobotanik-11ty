@@ -1,6 +1,7 @@
 ---
 title: Odon
 latinName: Vaccinium uliginosum
+date: git Last Modified
 imageCredit:
   - https://commons.wikimedia.org/wiki/File:Vaccinium_uliginosum_fruit.jpg
 tags:

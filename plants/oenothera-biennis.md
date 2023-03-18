@@ -1,6 +1,7 @@
 ---
 title: Nattljus
 latinName: Oenothera biennis
+date: git Last Modified
 tags:
   - hosta
   - grönsak

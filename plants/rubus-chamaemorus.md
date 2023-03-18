@@ -1,6 +1,7 @@
 ---
 title: Hjortron
 latinName: Rubus chamaemorus
+date: git Last Modified
 tags:
   - bär
   - GPT4

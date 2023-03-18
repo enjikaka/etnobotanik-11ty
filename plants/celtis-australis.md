@@ -1,6 +1,7 @@
 ---
 title: Europeisk bäralm
 latinName: Celtis australis
+date: git Last Modified
 gbif: 2984492
 tags:
   - frukt

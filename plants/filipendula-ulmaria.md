@@ -1,6 +1,7 @@
 ---
 title: Älggräs
 latinName: Filipendula ulmaria
+date: git Last Modified
 plant_length: 50-100
 tags:
   - saft

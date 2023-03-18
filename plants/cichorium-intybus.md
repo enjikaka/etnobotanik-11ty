@@ -1,6 +1,7 @@
 ---
 title: Cikoria
 latinName: Cichorium intybus
+date: git Last Modified
 tags:
   - perenn grönsak
   - GPT4

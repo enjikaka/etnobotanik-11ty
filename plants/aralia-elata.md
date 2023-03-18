@@ -1,6 +1,7 @@
 ---
 title: Parkaralia
 latinName: Aralia elata
+date: git Last Modified
 tags:
   - perenn grönsak
   - GPT4

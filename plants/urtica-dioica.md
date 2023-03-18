@@ -1,6 +1,7 @@
 ---
 title: Brännässla
 latinName: Urtica dioica
+date: git Last Modified
 tags:
   - kosttillskott
   - urindrivande

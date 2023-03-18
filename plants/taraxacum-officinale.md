@@ -1,6 +1,7 @@
 ---
 title: Maskros
 latinName: Taraxacum officinale
+date: git Last Modified
 tags:
   - perenn grönsak
   - GPT4

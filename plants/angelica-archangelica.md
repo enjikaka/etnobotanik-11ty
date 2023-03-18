@@ -1,6 +1,7 @@
 ---
-title: "Kvanne"
-latinName: "Angelica archangelica"
+title: Kvanne
+latinName: Angelica archangelica
+date: git Last Modified
 tags:
   - konfekt
   - sockerersättning

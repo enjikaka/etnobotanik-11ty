@@ -1,6 +1,7 @@
 ---
 title: Rankspenat
 latinName: Hablitzia thamnoides
+date: git Last Modified
 tags:
   - perenn grönsak
   - GPT4

@@ -1,6 +1,7 @@
 ---
 title: Sallatsaralia
 latinName: Aralia cordata
+date: git Last Modified
 tags:
   - perenn grönsak
   - GPT4

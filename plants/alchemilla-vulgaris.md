@@ -1,6 +1,7 @@
 ---
 title: "Daggkåpa"
 latinName: "Alchemilla vulgaris"
+date: git Last Modified
 tags:
   - acne
   - sårläkning

@@ -1,6 +1,7 @@
 ---
 title: Luftlök
 latinName: Allium x proliferum
+date: git Last Modified
 tags:
   - krydda
   - GPT4

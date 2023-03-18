@@ -1,6 +1,7 @@
 ---
 title: Läkemalva
 latinName: Althaea officinalis
+date: git Last Modified
 tags:
   - hosta
   - sallad

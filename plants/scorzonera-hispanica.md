@@ -1,6 +1,7 @@
 ---
 title: Svartrot
 latinName: Scorzonera hispanica
+date: git Last Modified
 tags:
   - perenn grönsak
   - GPT4

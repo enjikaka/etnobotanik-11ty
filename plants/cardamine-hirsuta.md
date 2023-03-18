@@ -1,6 +1,7 @@
 ---
 title: Bergbräsma
 latinName: Cardamine hirsuta
+date: git Last Modified
 tags:
   - sallad
   - krydda

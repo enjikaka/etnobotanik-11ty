@@ -1,6 +1,7 @@
 ---
 title: Piplök
 latinName: Allium fistulosum
+date: git Last Modified
 tags:
   - krydda
   - GPT4

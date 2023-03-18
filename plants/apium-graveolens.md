@@ -1,6 +1,7 @@
 ---
 title: Vildselleri
 latinName: Apium graveolens
+date: git Last Modified
 tags:
   - krydda
   - sallad

@@ -1,6 +1,7 @@
 ---
 title: Åkerbär
 latinName: Rubus arcticus
+date: git Last Modified
 tags:
   - bär
   - GPT4

@@ -1,6 +1,7 @@
 ---
 title: Krusmalva
 latinName: Malva verticillata var. crispa
+date: git Last Modified
 gbif: 3152370
 tags:
   - bladgrönsak
@@ -35,6 +36,6 @@ Det danska namnet "kålmalva" hintar om att den kan ersätta kål. Unga blad och
 
 Alla malvor innehåller slemämnen som är lenande och uppmjukande. Krossade blad lagda i en duk som omslag på sår är enline Linné bättre än "mången salva eller plåster, som många pengar kosta". Te på bladen kan användas som gurgelmedel bid halsbesvär.
 
-Rötas stjälkar och grenar i vatten likt lin delar de sig i fina trådar som blir vita och kan torkas för att spinnas. 
+Rötas stjälkar och grenar i vatten likt lin delar de sig i fina trådar som blir vita och kan torkas för att spinnas.
 
 ”Goda tandborstar beredes af rötterna, om de i ändan utspritas eller göras trådiga.” skrivs det i Svensk Botanik från 1803.

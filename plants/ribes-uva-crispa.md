@@ -1,6 +1,7 @@
 ---
 title: Krusbär
 latinName: Ribes uva-crispa
+date: git Last Modified
 tags:
   - bär
   - GPT4

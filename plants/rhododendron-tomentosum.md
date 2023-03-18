@@ -1,6 +1,7 @@
 ---
 title: Skvattram
 latinName: Rhododendron tomentosum
+date: git Last Modified
 tags:
   - öl
   - ohyra

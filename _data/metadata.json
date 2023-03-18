@@ -1,9 +1,9 @@
 {
-  "title": "Etnobotanik-Arkivet",
-  "url": "https://etnobotanik.netlify.com",
-  "author": {
-    "name": "Jeremy Karlsson",
-    "email": "karlsson@jeremy.se",
-    "github": "https://github.com/enjikaka"
-  }
+    "title": "Etnobotanik-Arkivet",
+    "url": "https://etnobotanik.se",
+    "author": {
+        "name": "Jeremy Karlsson",
+        "email": "karlsson@jeremy.se",
+        "github": "https://github.com/enjikaka"
+    }
 }

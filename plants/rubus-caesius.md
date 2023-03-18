@@ -1,9 +1,9 @@
 ---
 title: Blåhallon
 latinName: Rubus caesius
-imageCredit: [
-  "https://commons.wikimedia.org/wiki/File:Rubus_caesius_fruit_-_Keila.jpg"
-]
+date: git Last Modified
+imageCredit:
+  - https://commons.wikimedia.org/wiki/File:Rubus_caesius_fruit_-_Keila.jpg
 tags:
   - bär
   - GPT4

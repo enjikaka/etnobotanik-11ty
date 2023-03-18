@@ -1,6 +1,7 @@
 ---
 title: Dansk körvel
 latinName: Anthriscus cerefolium
+date: git Last Modified
 tags:
   - sallad
   - krydda

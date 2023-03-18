@@ -1,6 +1,7 @@
 ---
 title: Våtarv
 latinName: Stellaria media
+date: git Last Modified
 tags:
   - sallad
   - GPT4

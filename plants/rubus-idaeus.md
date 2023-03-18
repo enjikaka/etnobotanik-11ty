@@ -1,6 +1,7 @@
 ---
 title: Hallon
 latinName: Rubus idaeus
+date: git Last Modified
 tags:
   - te
   - bär

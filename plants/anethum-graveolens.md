@@ -1,6 +1,7 @@
 ---
 title: Dill
 latinName: Anethum graveolens
+date: git Last Modified
 tags:
   - krydda
   - andedräkt

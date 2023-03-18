@@ -1,6 +1,7 @@
 ---
 title: Björnbär
 latinName: Rubus plicatus
+date: git Last Modified
 tags:
   - bär
   - saft
