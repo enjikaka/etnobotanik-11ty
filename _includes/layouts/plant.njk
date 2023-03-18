@@ -30,8 +30,8 @@ section: plants
 </article>
 
 {% if imageCredit %}
-  <article>
-    Bilder från<br>
+  <article class="image-credits">
+    Tillskrivningar:<br>
     {{ imageCredit | generateCreditLinks | safe }}
   </article>
 {% endif %}

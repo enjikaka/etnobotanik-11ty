@@ -12,20 +12,19 @@
 }
 
 /* Post Tags */
-a[rel="tag"],
-a[rel="tag"]:visited {
-	display: block;
-  text-transform: uppercase;
-	letter-spacing: .1em;
-  font-size: .625em;
-  padding: .5em 1em;
-	background-color:rgba(255, 255, 255, 0.7);
-  border-radius: .25em;
-	text-decoration: none;
-	margin: 0.5em 1em;
+a[rel="tag"] {
+    display: block;
+    text-transform: uppercase;
+    letter-spacing: .1em;
+    font-size: .625em;
+    padding: .5em 1em;
+    border-radius: .5em;
+    text-decoration: none;
+    margin: 0.5em 1em;
+    background-color: #333;
+    color: white;
 }
 
-a[rel="tag"]:hover {
-	background-color: hsl(41, 84%, 30%);
-	color: var(--white);
+.image-credits {
+    font-size: 0.8em;
 }

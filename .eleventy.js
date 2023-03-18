@@ -34,15 +34,27 @@ module.exports = eleventyConfig => {
   eleventyConfig.addLayoutAlias("post", "layouts/post.njk");
 
   eleventyConfig.addFilter('generateTagLinks', tags => {
-    return '<ul>' + tags.map(tag => `
+    return '<ul>' + tags.filter(t => t !== 'plant').map(tag => `
       <li><a href="/tags/${tag}" rel="tag">${tag}</a></li>
     `).join('') + '</ul>';
   });
 
-  eleventyConfig.addFilter('generateCreditLinks', links => {
-    return '<ul>' + links.map(link => `
-      <li><a href="${link}">${new URL(link).hostname}</a></li>
-    `).join('') + '</ul>';
+  eleventyConfig.addAsyncFilter('generateCreditLinks', async links => {
+    const creditLinks = await Promise.all(links.map(async (link) => {
+      const file = link.split('/').pop();
+      const apiUrl = `https://commons.wikimedia.org/w/rest.php/v1/file/${file}`;
+      const response = await fetch(apiUrl);
+
+      if (!response.ok) {
+        return `<a href="${link}">${link}</a>`;
+      }
+
+      const data = await response.json();
+
+      return `<a href="${link}">${data.title}</a> skapad av <a href="https://commons.wikimedia.org/wiki/User:${data.latest.user.name}">${data.latest.user.name}</a>`;
+    }));
+
+    return `<ul>${creditLinks.map(anchor => `<li>${anchor}</li>`).join('')}</ul>`;
   });
 
   eleventyConfig.addFilter('nordensFloraSrc', latinName => {
@@ -113,7 +125,7 @@ module.exports = eleventyConfig => {
   eleventyConfig.addFilter("cssmin", code => new CleanCSS({}).minify(code).styles);
 
   // Minify JS
-  eleventyConfig.addFilter("jsmin", function (code) {
+  eleventyConfig.addFilter("jsmin", function(code) {
     let minified = UglifyJS.minify(code);
     if (minified.error) {
       console.log("UglifyJS error: ", minified.error);
@@ -123,7 +135,7 @@ module.exports = eleventyConfig => {
   });
 
   // Minify HTML output
-  eleventyConfig.addTransform("htmlmin", function (content, outputPath) {
+  eleventyConfig.addTransform("htmlmin", function(content, outputPath) {
     if (outputPath.indexOf(".html") > -1) {
       let minified = htmlmin.minify(content, {
         useShortDoctype: true,
@@ -136,13 +148,13 @@ module.exports = eleventyConfig => {
   });
 
   // only content in the `posts/` directory
-  eleventyConfig.addCollection('posts', function (collection) {
-    return collection.getAllSorted().filter(function (item) {
+  eleventyConfig.addCollection('posts', function(collection) {
+    return collection.getAllSorted().filter(function(item) {
       return item.inputPath.match(/^\.\/posts\//) !== null;
     });
   });
 
-  eleventyConfig.addCollection('plants', function (collection) {
+  eleventyConfig.addCollection('plants', function(collection) {
     // Also accepts an array of globs!
     return collection.getFilteredByGlob(["plants/*.md"]);
   });
