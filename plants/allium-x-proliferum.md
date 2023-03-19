@@ -4,6 +4,7 @@ latinName: Allium x proliferum
 date: git Last Modified
 tags:
   - krydda
+  - perenn grönsak
   - GPT4
 imageCredit:
   - https://commons.wikimedia.org/wiki/File:Allium_fistulosum_bulbifera1.jpg

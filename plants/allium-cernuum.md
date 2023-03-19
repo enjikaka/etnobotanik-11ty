@@ -4,6 +4,7 @@ latinName: Allium cernuum
 date: git Last Modified
 tags:
   - krydda
+  - perenn grönsak
   - GPT4
 imageCredit:
   - https://commons.wikimedia.org/wiki/File:Allium_cernuum_2.jpg
