@@ -8,10 +8,9 @@ tags:
   - myggmedel
   - berusning
   - afrodisiakum
-imageCredit: [
-  "https://commons.wikimedia.org/wiki/File:Ledum_palustre_subsp._diversipilosum_var._nipponicum_1.JPG",
-  "https://sv.wikipedia.org/wiki/Fil:Mrzezyno_reserve_Ledum_palustre_2010-07.jpg"
-]
+imageCredit:
+  - https://commons.wikimedia.org/wiki/File:Ledum_palustre_subsp._diversipilosum_var._nipponicum_1.JPG
+  - https://commons.wikimedia.org/wiki/File:Mrzezyno_reserve_Ledum_palustre_2010-07.jpg
 ---
 
 Skvattram (Rhododendron tomentosum), även känd som ledum palustre, är en flerårig, lågväxande buske som hör till familjen Ericaceae. Växten är vanlig i norra Europa, Asien och Nordamerika, där den trivs i myrmark, fuktiga skogar och våtmarker. Skvattram har en lång tradition av användning inom folktro, medicin och hantverk, vilket gör den till en intressant växt att studera och odla.
