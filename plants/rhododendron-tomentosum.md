@@ -8,6 +8,7 @@ tags:
   - myggmedel
   - berusning
   - afrodisiakum
+  - GPT4
 imageCredit:
   - https://commons.wikimedia.org/wiki/File:Ledum_palustre_subsp._diversipilosum_var._nipponicum_1.JPG
   - https://commons.wikimedia.org/wiki/File:Mrzezyno_reserve_Ledum_palustre_2010-07.jpg
