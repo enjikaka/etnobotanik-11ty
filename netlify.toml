@@ -11,6 +11,10 @@
   from = "/vaxter/*"
   to = "/plants/:splat"
 
+[[redirects]]
+  from = "/plants/rubus-fruticosus"
+  to = "/plants/rubus-plicatus"
+
 # The default HTTP status code is 301, but you can define a different one e.g.
 # status = 302
 
