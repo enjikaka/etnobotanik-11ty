@@ -7,6 +7,6 @@ RUN npm ci
 RUN npm run build
 
 FROM joseluisq/static-web-server
-ADD _site public
+COPY --from=builder /usr/src/app_site public
 ENV SERVER_PORT=5000
 EXPOSE 5000
