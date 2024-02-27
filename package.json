@@ -3,7 +3,7 @@
     "version": "1.0.4",
     "description": "11ty with Netlify CMS",
     "engines": {
-        "node": "^18"
+        "node": "^20"
     },
     "scripts": {
         "build": "npx eleventy",
